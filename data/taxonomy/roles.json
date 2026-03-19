@@ -1,0 +1,2770 @@
+[
+  {
+    "role": "Benefits Administrator",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Compensation & Benefits Analyst",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Compensation Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "DEI Program Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Employee Experience Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Employee Relations Specialist",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Administrator",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Business Partner",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Compliance Officer",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Consultant",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Data Privacy Specialist",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Generalist",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Recruiting Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Senior Service Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Service Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HR Support Advisor",
+    "category": "Human Resources"
+  },
+  {
+    "role": "HRIS Analyst",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Learning & Development Specialist",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Organizational Development Specialist",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Payroll Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "People Analytics Analyst",
+    "category": "Human Resources"
+  },
+  {
+    "role": "People Operations Specialist",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Recruiter",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Talent Acquisition Coordinator",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Talent Operations Manager",
+    "category": "Human Resources"
+  },
+  {
+    "role": "Account Executive",
+    "category": "Sales"
+  },
+  {
+    "role": "Account Manager",
+    "category": "Sales"
+  },
+  {
+    "role": "Channel Account Manager",
+    "category": "Sales"
+  },
+  {
+    "role": "Enterprise Account Executive",
+    "category": "Sales"
+  },
+  {
+    "role": "Cloud Solution Architect",
+    "category": "Sales"
+  },
+  {
+    "role": "Commercial Executive",
+    "category": "Sales"
+  },
+  {
+    "role": "Customer Success Account Manager",
+    "category": "Sales"
+  },
+  {
+    "role": "Digital Account Executive",
+    "category": "Sales"
+  },
+  {
+    "role": "Digital Sales Specialist at Microsoft",
+    "category": "Sales"
+  },
+  {
+    "role": "Enterprise Solution Specialist",
+    "category": "Sales"
+  },
+  {
+    "role": "Partner Account Manager",
+    "category": "Sales"
+  },
+  {
+    "role": "Sales Administrator",
+    "category": "Sales"
+  },
+  {
+    "role": "Sales Enablement Manager",
+    "category": "Sales"
+  },
+  {
+    "role": "Sales Manager",
+    "category": "Sales"
+  },
+  {
+    "role": "Sales Operations Analyst",
+    "category": "Sales"
+  },
+  {
+    "role": "Sales Representative",
+    "category": "Sales"
+  },
+  {
+    "role": "Senior Sales Specialist at Microsoft",
+    "category": "Sales"
+  },
+  {
+    "role": "Accountant",
+    "category": "Finance"
+  },
+  {
+    "role": "ALM Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "AP Specialist",
+    "category": "Finance"
+  },
+  {
+    "role": "AR Specialist",
+    "category": "Finance"
+  },
+  {
+    "role": "Audit, Risk and Compliance (ARC) Data Solution Manager",
+    "category": "Finance"
+  },
+  {
+    "role": "Billing Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Bookkeeper",
+    "category": "Finance"
+  },
+  {
+    "role": "Capital Planning Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Controller",
+    "category": "Finance"
+  },
+  {
+    "role": "Cost Accountant",
+    "category": "Finance"
+  },
+  {
+    "role": "Credit Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Finance Business Partner",
+    "category": "Finance"
+  },
+  {
+    "role": "Finance Manager",
+    "category": "Finance"
+  },
+  {
+    "role": "Financial Accounting",
+    "category": "Finance"
+  },
+  {
+    "role": "Financial Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Financial Operations",
+    "category": "Finance"
+  },
+  {
+    "role": "Financial Planning and Analysis",
+    "category": "Finance"
+  },
+  {
+    "role": "Financial Reporting Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Fixed Assets Accountant",
+    "category": "Finance"
+  },
+  {
+    "role": "FP&A Manager",
+    "category": "Finance"
+  },
+  {
+    "role": "Hedge Accounting Specialist",
+    "category": "Finance"
+  },
+  {
+    "role": "Income Tax Compliance Manager",
+    "category": "Finance"
+  },
+  {
+    "role": "Internal Auditor",
+    "category": "Finance"
+  },
+  {
+    "role": "M&A Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Payroll Specialist",
+    "category": "Finance"
+  },
+  {
+    "role": "Revenue Accountant",
+    "category": "Finance"
+  },
+  {
+    "role": "Senior Accountant",
+    "category": "Finance"
+  },
+  {
+    "role": "SOX Compliance Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Tax Manager",
+    "category": "Finance"
+  },
+  {
+    "role": "Tax Specialist",
+    "category": "Finance"
+  },
+  {
+    "role": "Treasury Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Treasury Operations Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Valuation Analyst",
+    "category": "Finance"
+  },
+  {
+    "role": "Vendor Engagement Manager",
+    "category": "Finance"
+  },
+  {
+    "role": "AML Compliance Analyst",
+    "category": "Legal"
+  },
+  {
+    "role": "Anti-Corruption Compliance Analyst",
+    "category": "Legal"
+  },
+  {
+    "role": "Compliance Officer",
+    "category": "Legal"
+  },
+  {
+    "role": "Contract Administrator",
+    "category": "Legal"
+  },
+  {
+    "role": "Contracts Manager",
+    "category": "Legal"
+  },
+  {
+    "role": "Corporate Counsel",
+    "category": "Legal"
+  },
+  {
+    "role": "Data Privacy Analyst",
+    "category": "Legal"
+  },
+  {
+    "role": "Data Protection Officer",
+    "category": "Legal"
+  },
+  {
+    "role": "eDiscovery Specialist",
+    "category": "Legal"
+  },
+  {
+    "role": "IP Paralegal",
+    "category": "Legal"
+  },
+  {
+    "role": "Legal Assistant",
+    "category": "Legal"
+  },
+  {
+    "role": "Legal Operations Manager",
+    "category": "Legal"
+  },
+  {
+    "role": "Litigation Support Specialist",
+    "category": "Legal"
+  },
+  {
+    "role": "Paralegal",
+    "category": "Legal"
+  },
+  {
+    "role": "Policy Governance Manager",
+    "category": "Legal"
+  },
+  {
+    "role": "Principal Corporate Counsel",
+    "category": "Legal"
+  },
+  {
+    "role": "Product Counsel",
+    "category": "Legal"
+  },
+  {
+    "role": "Records & eDiscovery Manager",
+    "category": "Legal"
+  },
+  {
+    "role": "Regulatory Affairs Specialist",
+    "category": "Legal"
+  },
+  {
+    "role": "Trademark Specialist",
+    "category": "Legal"
+  },
+  {
+    "role": "Business Systems Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Cloud Administrator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "CMDB Administrator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Configuration Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Desktop Engineer",
+    "category": "Information Technology"
+  },
+  {
+    "role": "DevOps Engineer",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Field IT Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "GRC Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Identity & Access Management Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Incident Response Coordinator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Administrator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Asset Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Compliance Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Financial Management (FinOps) Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Governance Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Operations Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Procurement Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Product Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Professional",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Service Desk Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Support Specialist",
+    "category": "Information Technology"
+  },
+  {
+    "role": "IT Vendor Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Launch Infrastructure Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "M365 Administrator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Network Administrator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Network Engineer",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Observability/Monitoring Analyst",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Platform Product Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Power Platform Admin",
+    "category": "Information Technology"
+  },
+  {
+    "role": "QA Analyst (Software)",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Release Train Engineer",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Scrum Program Lead",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Service Delivery Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "SharePoint Administrator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Site Reliability Engineer (SRE)",
+    "category": "Information Technology"
+  },
+  {
+    "role": "SOC Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Solutions Architect",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Systems Administrator",
+    "category": "Information Technology"
+  },
+  {
+    "role": "Technical Program Manager",
+    "category": "Information Technology"
+  },
+  {
+    "role": "ABM Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Affiliate Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Brand Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Campaign Operations Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Content Marketer",
+    "category": "Marketing"
+  },
+  {
+    "role": "Copy Chief",
+    "category": "Marketing"
+  },
+  {
+    "role": "CRM Administrator",
+    "category": "Marketing"
+  },
+  {
+    "role": "Customer Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Demand Generation Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Digital Marketing Specialist",
+    "category": "Marketing"
+  },
+  {
+    "role": "Events Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Field Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Growth Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Influencer Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Integrated Marketing",
+    "category": "Marketing"
+  },
+  {
+    "role": "Lifecycle Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Marketing Coordinator",
+    "category": "Marketing"
+  },
+  {
+    "role": "Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Marketing Operations Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Media Buyer",
+    "category": "Marketing"
+  },
+  {
+    "role": "Media Planner",
+    "category": "Marketing"
+  },
+  {
+    "role": "Partner Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Product Marketing Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "SEO/SEM Specialist",
+    "category": "Marketing"
+  },
+  {
+    "role": "Social Media Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Traffic Manager",
+    "category": "Marketing"
+  },
+  {
+    "role": "Brand Social Communications Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Communications Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Communications Specialist",
+    "category": "Communications"
+  },
+  {
+    "role": "Communications VP",
+    "category": "Communications"
+  },
+  {
+    "role": "Content Strategist",
+    "category": "Communications"
+  },
+  {
+    "role": "Copywriter",
+    "category": "Communications"
+  },
+  {
+    "role": "Crisis Communications Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Editor",
+    "category": "Communications"
+  },
+  {
+    "role": "Editorial Operations Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Internal Communications Director",
+    "category": "Communications"
+  },
+  {
+    "role": "Internal Communications Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Issues Management Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Newsroom Assignment Editor",
+    "category": "Communications"
+  },
+  {
+    "role": "Podcast Producer (Admin)",
+    "category": "Communications"
+  },
+  {
+    "role": "Public Relations Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Rights & Clearances Manager",
+    "category": "Communications"
+  },
+  {
+    "role": "Technical Writer",
+    "category": "Communications"
+  },
+  {
+    "role": "Administrative Assistant",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Administrative Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Administrative Specialist",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Administrative Support",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Corporate Archivist",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Corporate Event Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Document Control Specialist",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Document Specialist",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Executive Assistant",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Executive Communications Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Executive Scheduler",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Facilities Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Front Desk Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Office Administrator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Office Manager",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Office Policies Administrator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Procurement Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Project Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Receptionist",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Records Manager",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Travel Coordinator",
+    "category": "Administrative Support"
+  },
+  {
+    "role": "Automation Engineer (Office)",
+    "category": "Engineering"
+  },
+  {
+    "role": "BIM Coordinator",
+    "category": "Engineering"
+  },
+  {
+    "role": "CAD Manager",
+    "category": "Engineering"
+  },
+  {
+    "role": "Computer Systems Engineers",
+    "category": "Engineering"
+  },
+  {
+    "role": "Configuration Engineer",
+    "category": "Engineering"
+  },
+  {
+    "role": "Industrial Engineer",
+    "category": "Engineering"
+  },
+  {
+    "role": "Manufacturing Quality Systems Manager",
+    "category": "Engineering"
+  },
+  {
+    "role": "New Product Introduction (NPI) Program Manager",
+    "category": "Engineering"
+  },
+  {
+    "role": "PLM Analyst",
+    "category": "Engineering"
+  },
+  {
+    "role": "Process Engineer",
+    "category": "Engineering"
+  },
+  {
+    "role": "Quality Assurance Manager",
+    "category": "Engineering"
+  },
+  {
+    "role": "Quality Engineer",
+    "category": "Engineering"
+  },
+  {
+    "role": "Reliability Engineer",
+    "category": "Engineering"
+  },
+  {
+    "role": "Software Developers",
+    "category": "Engineering"
+  },
+  {
+    "role": "Technical Writer (Engineering)",
+    "category": "Engineering"
+  },
+  {
+    "role": "CEO",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Chief Data Officer",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Chief Information Officer",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Chief of Staff",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Chief Technology Officer",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Corporate Development Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Corporate Strategy Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Enterprise Risk Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "ESG Reporting Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Ethics & Compliance Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Executive (VP/Director)",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Innovation Program Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Knowledge Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Policy & Governance Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Portfolio Governance Lead",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Records & Information Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Strategy Analyst",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Strategy Associate",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Sustainability Program Manager",
+    "category": "Executive Offices"
+  },
+  {
+    "role": "Community Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Education Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Insights Program Manager (CS)",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Service Agent",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Service Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Service Representative",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Success Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Support Director",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Support Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Customer Support Representative",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Escalation Engineer",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Escalation Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Escalations Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Field Support Coordinator",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Knowledge Base Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Onboarding Specialist (CS)",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Professional Services Coordinator",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Renewals Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Support Engineer",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Support Operations Analyst",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Support Readiness Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Technical Account Manager",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Technical Advisor",
+    "category": "Customer Service"
+  },
+  {
+    "role": "Business Analyst",
+    "category": "Operations"
+  },
+  {
+    "role": "Business Continuity Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Business Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Change Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Internal Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Inventory Analyst",
+    "category": "Operations"
+  },
+  {
+    "role": "Logistics Coordinator",
+    "category": "Operations"
+  },
+  {
+    "role": "Management Consultant",
+    "category": "Operations"
+  },
+  {
+    "role": "Operations Analyst",
+    "category": "Operations"
+  },
+  {
+    "role": "Operations Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Operations PM",
+    "category": "Operations"
+  },
+  {
+    "role": "Operations Program Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Operations Specialist",
+    "category": "Operations"
+  },
+  {
+    "role": "Procurement Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Procurement Specialist",
+    "category": "Operations"
+  },
+  {
+    "role": "Production Planner",
+    "category": "Operations"
+  },
+  {
+    "role": "Project Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Quality Assurance (Operations)",
+    "category": "Operations"
+  },
+  {
+    "role": "S&OP Planner",
+    "category": "Operations"
+  },
+  {
+    "role": "Shift Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Supply Chain Analyst",
+    "category": "Operations"
+  },
+  {
+    "role": "Vendor Manager",
+    "category": "Operations"
+  },
+  {
+    "role": "Brand Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Brand Strategist",
+    "category": "Design"
+  },
+  {
+    "role": "Content Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Creative Director",
+    "category": "Design"
+  },
+  {
+    "role": "Design Director",
+    "category": "Design"
+  },
+  {
+    "role": "Design Engineer",
+    "category": "Design"
+  },
+  {
+    "role": "Design Operations Manager",
+    "category": "Design"
+  },
+  {
+    "role": "Design Program Manager",
+    "category": "Design"
+  },
+  {
+    "role": "Design Researcher",
+    "category": "Design"
+  },
+  {
+    "role": "Design Strategist",
+    "category": "Design"
+  },
+  {
+    "role": "Design Systems Manager",
+    "category": "Design"
+  },
+  {
+    "role": "Environmental Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Experience Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Experience Director",
+    "category": "Design"
+  },
+  {
+    "role": "Graphic Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Industrial Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Information Architect",
+    "category": "Design"
+  },
+  {
+    "role": "Information Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Interaction Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Material Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Motion Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Packaging Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Product Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Research Operations Manager",
+    "category": "Design"
+  },
+  {
+    "role": "Service Designer",
+    "category": "Design"
+  },
+  {
+    "role": "User Experience Designer",
+    "category": "Design"
+  },
+  {
+    "role": "User Experience Researcher",
+    "category": "Design"
+  },
+  {
+    "role": "User Experience Writer",
+    "category": "Design"
+  },
+  {
+    "role": "UX Researcher",
+    "category": "Design"
+  },
+  {
+    "role": "UX Writer",
+    "category": "Design"
+  },
+  {
+    "role": "Video Producer (Admin)",
+    "category": "Design"
+  },
+  {
+    "role": "Visual Designer",
+    "category": "Design"
+  },
+  {
+    "role": "Agile Coach",
+    "category": "Project Management"
+  },
+  {
+    "role": "Business Project Analyst",
+    "category": "Project Management"
+  },
+  {
+    "role": "Business Relationship Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "Change Enablement Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "OKR Program Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "PMO Analyst",
+    "category": "Project Management"
+  },
+  {
+    "role": "Portfolio Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "Product Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "Product Operations Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "Product Owner",
+    "category": "Project Management"
+  },
+  {
+    "role": "Program Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "Project Controls Analyst",
+    "category": "Project Management"
+  },
+  {
+    "role": "Project Scheduler",
+    "category": "Project Management"
+  },
+  {
+    "role": "Release Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "Scrum Master",
+    "category": "Project Management"
+  },
+  {
+    "role": "Technical Product Manager",
+    "category": "Project Management"
+  },
+  {
+    "role": "Analytics Manager",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "BI Developer",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Customer Insights Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Data Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Data Curator",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Data Engineer",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Data Governance Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Data Product Manager",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Data Scientist",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Data Steward",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Experimentation (A/B) Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Forecasting Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Fraud Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "GeoSpatial (GIS) Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Market Research Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "NLP Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Operations Research Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Pricing Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Product Analytics Manager",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Reporting Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Research Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Risk Analytics Analyst",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Web Analytics Specialist",
+    "category": "Data & Analytics"
+  },
+  {
+    "role": "Security Analyst",
+    "category": "Security"
+  },
+  {
+    "role": "Capacity Planner (Logistics)",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Commodity Manager",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Customs Compliance Analyst",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Customs Compliance Specialist",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Demand Planner",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Dispatcher (Office)",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Fleet Coordinator",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Fleet Manager",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Freight Analyst",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Intermodal Operations Analyst",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Last-Mile Operations Coordinator",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Master Scheduler",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Network Planning Analyst (Air/Rail)",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Order Management Specialist",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Returns/Reverse Logistics Analyst",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Route Planner",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Strategic Sourcing Manager",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Supplier Performance Analyst",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Supplier Quality Engineer",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Trade Compliance Analyst",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Trade Compliance Manager",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Transportation Planner",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Warehouse Manager",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "Warehouse Operations Analyst",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "role": "EHS Specialist",
+    "category": "Manufacturing"
+  },
+  {
+    "role": "Field Operations Coordinator",
+    "category": "Manufacturing"
+  },
+  {
+    "role": "Maintenance Planner",
+    "category": "Manufacturing"
+  },
+  {
+    "role": "Maintenance Planner/Scheduler",
+    "category": "Manufacturing"
+  },
+  {
+    "role": "Manufacturing Analyst",
+    "category": "Manufacturing"
+  },
+  {
+    "role": "Case Management Coordinator",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Clinical Documentation Improvement (CDI) Specialist",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Clinical Operations Coordinator",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Credentialing Specialist",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Health Information Manager",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Healthcare Compliance Specialist",
+    "category": "Healthcare"
+  },
+  {
+    "role": "HIM Data Analyst",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Medical Billing Specialist",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Medical Coder",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Medical Office Administrator",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Patient Access Supervisor",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Patient Services Coordinator",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Practice Manager",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Provider Enrollment Specialist",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Quality & Patient Safety Coordinator (Admin)",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Revenue Cycle Analyst",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Utilization Review Coordinator",
+    "category": "Healthcare"
+  },
+  {
+    "role": "Academic Advisor",
+    "category": "Education"
+  },
+  {
+    "role": "Admissions Counselor",
+    "category": "Education"
+  },
+  {
+    "role": "Alumni Relations Manager",
+    "category": "Education"
+  },
+  {
+    "role": "Assessment & Accreditation Coordinator",
+    "category": "Education"
+  },
+  {
+    "role": "Bursar",
+    "category": "Education"
+  },
+  {
+    "role": "Bursar Operations Analyst",
+    "category": "Education"
+  },
+  {
+    "role": "Career Services Coordinator",
+    "category": "Education"
+  },
+  {
+    "role": "Corporate Trainer",
+    "category": "Education"
+  },
+  {
+    "role": "Curriculum Developer",
+    "category": "Education"
+  },
+  {
+    "role": "Dean's Office Administrator",
+    "category": "Education"
+  },
+  {
+    "role": "Department Coordinator",
+    "category": "Education"
+  },
+  {
+    "role": "Educational Program Coordinator",
+    "category": "Education"
+  },
+  {
+    "role": "eLearning Developer",
+    "category": "Education"
+  },
+  {
+    "role": "Enrollment Manager",
+    "category": "Education"
+  },
+  {
+    "role": "Enrollment Marketing Manager",
+    "category": "Education"
+  },
+  {
+    "role": "Financial Aid Officer",
+    "category": "Education"
+  },
+  {
+    "role": "Instructional Designer",
+    "category": "Education"
+  },
+  {
+    "role": "Instructional Technologist",
+    "category": "Education"
+  },
+  {
+    "role": "Institutional Research Analyst",
+    "category": "Education"
+  },
+  {
+    "role": "International Student Services Coordinator",
+    "category": "Education"
+  },
+  {
+    "role": "Learning Experience Designer",
+    "category": "Education"
+  },
+  {
+    "role": "Professor",
+    "category": "Education"
+  },
+  {
+    "role": "Registrar",
+    "category": "Education"
+  },
+  {
+    "role": "Registrar Systems Analyst",
+    "category": "Education"
+  },
+  {
+    "role": "Scheduling Officer",
+    "category": "Education"
+  },
+  {
+    "role": "School Administrator",
+    "category": "Education"
+  },
+  {
+    "role": "Student Records Coordinator",
+    "category": "Education"
+  },
+  {
+    "role": "Student Success Advisor",
+    "category": "Education"
+  },
+  {
+    "role": "Teacher",
+    "category": "Education"
+  },
+  {
+    "role": "Budget Analyst (Public)",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "City Planner",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Clerk of Court (Admin)",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Elections Coordinator",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Emergency Management Planner",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Grant Writer",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Grants Compliance Manager",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Legislative Aide",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Policy Analyst",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Procurement Officer (Public)",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Public Health Program Analyst",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Public Information Officer",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Public Records Coordinator",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Records Officer",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Regulatory Policy Analyst",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Transportation Planning Analyst",
+    "category": "Government & Public Sector"
+  },
+  {
+    "role": "Advocacy Campaigns Manager",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Coalition Coordinator",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Community Development Coordinator",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Community Outreach Manager",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Development Coordinator",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Donor Relations Manager",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Economic Development Analyst",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Fundraising Manager",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Grant Accountant",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Grants Manager",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Major Gifts Officer",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Membership Manager",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Monitoring & Evaluation Specialist",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "NGO Operations Manager",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Planned Giving Officer",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Program Coordinator",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Program Evaluator",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Program Manager (Nonprofit)",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Volunteer Coordinator",
+    "category": "Nonprofit & NGO"
+  },
+  {
+    "role": "Acquisitions Analyst",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Asset Manager (Real Estate)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Construction Project Manager",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Development Coordinator (Real Estate)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Document Control Coordinator (Construction)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Escrow Officer (Office)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Estimator",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Facilities Manager",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Leasing Consultant",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Owner's Rep (Office)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Preconstruction Manager",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Property Manager",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Real Estate Agent",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Real Estate Financial Analyst",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Safety Compliance Coordinator (Office)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Scheduler (Construction)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Site Administrator",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Title Officer (Office)",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Transaction Coordinator",
+    "category": "Real Estate & Construction"
+  },
+  {
+    "role": "Assortment Planner",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Category Manager",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "CRM & Loyalty Program Manager",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "E-commerce Manager",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Loss Prevention Analyst (Office)",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Marketplace Operations Manager",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Merchandising Analyst",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Omnichannel Operations Manager",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Retail Finance Analyst",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Returns & Refunds Analyst",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Space Planner",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Store Operations Manager",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Vendor Operations Manager (Retail)",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Visual Merchandising Coordinator (Office)",
+    "category": "Retail & E-commerce"
+  },
+  {
+    "role": "Actuarial Analyst",
+    "category": "Insurance"
+  },
+  {
+    "role": "Broker Account Manager (Office)",
+    "category": "Insurance"
+  },
+  {
+    "role": "Catastrophe Modeling Analyst",
+    "category": "Insurance"
+  },
+  {
+    "role": "Claims Adjuster (Office)",
+    "category": "Insurance"
+  },
+  {
+    "role": "Claims Operations Manager (Office)",
+    "category": "Insurance"
+  },
+  {
+    "role": "Compliance Analyst (Insurance)",
+    "category": "Insurance"
+  },
+  {
+    "role": "Exposure Management Analyst",
+    "category": "Insurance"
+  },
+  {
+    "role": "Policy Administration Specialist",
+    "category": "Insurance"
+  },
+  {
+    "role": "Premium Audit Analyst",
+    "category": "Insurance"
+  },
+  {
+    "role": "Reinsurance Analyst",
+    "category": "Insurance"
+  },
+  {
+    "role": "Underwriter",
+    "category": "Insurance"
+  },
+  {
+    "role": "AML Investigator",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Buy-Side Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Compliance Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Equity Research Associate",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Financial Crime Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Investment Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Loan Officer",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Payments Operations Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Portfolio Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Relationship Manager",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Risk Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Sanctions Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Sell-Side Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Trading Operations Analyst",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Trust Officer (Office)",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Wealth Management Associate",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Wealth Operations Coordinator",
+    "category": "Banking & Financial Services"
+  },
+  {
+    "role": "Airline Scheduling Analyst (Office)",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Banquet Administration Coordinator",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Catering Sales Manager",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Crew Scheduler (Office)",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Event Sales Coordinator",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Group Sales Coordinator",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Guest Relations Manager (Office)",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Hotel Sales Manager",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Revenue Analyst",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Tour Operations Coordinator",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Travel Product Manager",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Yield/Revenue Management Analyst",
+    "category": "Hospitality & Travel"
+  },
+  {
+    "role": "Asset Management Analyst",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Energy Analyst",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Environmental Compliance Specialist",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Gas Nominations/Scheduling Analyst",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Outage Planning Coordinator (Office)",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Power Trading Operations Analyst (Office)",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Rates Analyst",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Regulatory Affairs Manager (Office)",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Scheduling Coordinator",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Settlements Analyst (Energy)",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Transmission Planning Analyst (Office)",
+    "category": "Energy & Utilities"
+  },
+  {
+    "role": "Biostatistics Operations Coordinator (Admin)",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Clinical Study Start-Up Specialist",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Clinical Trial Coordinator",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "CMC Documentation Specialist (Office)",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Medical Affairs Coordinator (Admin)",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Medical Writer",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Pharmacovigilance Specialist",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Quality Assurance Specialist",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Quality Systems Coordinator (GxP)",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Regulatory Affairs Associate",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Regulatory Submissions Coordinator",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Safety Case Processing Specialist",
+    "category": "Pharma & Life Sciences"
+  },
+  {
+    "role": "Core Facilities Coordinator (Admin)",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Grant Administrator",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Grant Compliance Officer",
+    "category": "Research Administration"
+  },
+  {
+    "role": "IRB/IACUC Coordinator (Admin)",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Lab Operations Coordinator (Admin)",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Publication Manager (Admin)",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Research Administrator",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Research Coordinator",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Research Finance/Grant Accountant",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Sponsored Programs Specialist",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Technical Editor",
+    "category": "Research Administration"
+  },
+  {
+    "role": "Application Security Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "AR/VR Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Backend Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Build/Release Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Cloud Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Data Platform Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "DevSecOps Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Embedded Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Engineering Manager",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Firmware Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Frontend Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Full-Stack Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Game Developer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Graphics/Rendering Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "MLOps Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Mobile Software Engineer (Android)",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Mobile Software Engineer (iOS)",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Platform Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Principal Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Quality Engineer (Software)",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Robotics Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "SDET (Software Development Engineer in Test)",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Software Development Manager",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Solutions Engineer (Pre-Sales)",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Staff Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Systems Software Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Test Automation Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Tools Engineer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Web Developer",
+    "category": "Software Engineering"
+  },
+  {
+    "role": "Account Manager (Agency)",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Account Planner",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Ad Operations Manager",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Creative Operations Manager",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Media Operations Manager",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Media Strategist",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Post-Production Coordinator (Office)",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Production Coordinator (Agency)",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Rights & Licensing Coordinator",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Strategist (Agency)",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Traffic Coordinator (Agency)",
+    "category": "Agency & Advertising"
+  },
+  {
+    "role": "Agribusiness Analyst",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Co-op Operations Coordinator",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Commodity Trading Operations Analyst",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Farm Records Manager (Office)",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Food Safety Compliance Coordinator (Office)",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Land Management Coordinator",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Regulatory Affairs Coordinator (Ag)",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Seed/Inputs Product Manager (Office)",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Supply Planner (Ag)",
+    "category": "Agriculture"
+  },
+  {
+    "role": "Sustainability Reporting Analyst (Ag)",
+    "category": "Agriculture"
+  },
+  {
+    "role": "CAD/BIM Manager",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Civil Engineer (Office)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Cost Estimator (AEC)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Design Project Manager (AEC)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "MEP Engineer (Office)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Permitting Coordinator (AEC)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Project Architect (Office)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Project Controls Manager (AEC)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Specification Writer",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "Structural Engineer (Office)",
+    "category": "Architecture, Engineering & Construction (AEC)"
+  },
+  {
+    "role": "After-Sales Operations Analyst",
+    "category": "Automotive"
+  },
+  {
+    "role": "Dealer Network Development Analyst",
+    "category": "Automotive"
+  },
+  {
+    "role": "Engineering Change Coordinator (Auto)",
+    "category": "Automotive"
+  },
+  {
+    "role": "Homologation/Regulatory Specialist (Auto)",
+    "category": "Automotive"
+  },
+  {
+    "role": "Manufacturing Program Manager (Auto)",
+    "category": "Automotive"
+  },
+  {
+    "role": "Product Planning Analyst (Auto)",
+    "category": "Automotive"
+  },
+  {
+    "role": "Quality Systems Engineer (Office)",
+    "category": "Automotive"
+  },
+  {
+    "role": "Service Technical Writer (Auto)",
+    "category": "Automotive"
+  },
+  {
+    "role": "Telematics Data Analyst (Auto)",
+    "category": "Automotive"
+  },
+  {
+    "role": "Warranty Claims Analyst",
+    "category": "Automotive"
+  },
+  {
+    "role": "Brand Finance Analyst (CPG)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Category Insights Manager (CPG)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Field Marketing Operations Coordinator (CPG)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Innovation Project Manager (CPG)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Packaging Engineer (Office)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Quality Systems Coordinator (CPG)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "R&D Program Coordinator (Office)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Regulatory Labeling Specialist",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Sales Finance Analyst (CPG)",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Trade Promotion Analyst",
+    "category": "Consumer Packaged Goods (CPG)"
+  },
+  {
+    "role": "Content Operations Manager",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Distribution Operations Analyst",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Music Licensing Coordinator",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Post Scheduling Coordinator (Office)",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Production Finance Analyst",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Programming Scheduler (Office)",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Rights Management Analyst",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Script Coordinator (Office)",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Talent Relations Coordinator (Office)",
+    "category": "Media & Entertainment"
+  },
+  {
+    "role": "Commodity Logistics Coordinator (Mining)",
+    "category": "Mining"
+  },
+  {
+    "role": "Environmental Analyst (Mining)",
+    "category": "Mining"
+  },
+  {
+    "role": "Exploration Program Coordinator (Office)",
+    "category": "Mining"
+  },
+  {
+    "role": "Geospatial Data Analyst (Mining)",
+    "category": "Mining"
+  },
+  {
+    "role": "Mine Planning Analyst (Office)",
+    "category": "Mining"
+  },
+  {
+    "role": "Permitting Specialist (Mining)",
+    "category": "Mining"
+  },
+  {
+    "role": "Reclamation Program Coordinator (Office)",
+    "category": "Mining"
+  },
+  {
+    "role": "Royalty/Lease Analyst (Mining)",
+    "category": "Mining"
+  },
+  {
+    "role": "Safety & Compliance Analyst (Mining)",
+    "category": "Mining"
+  },
+  {
+    "role": "Stakeholder Relations Coordinator (Mining)",
+    "category": "Mining"
+  },
+  {
+    "role": "Athletics Compliance Coordinator (Office)",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Community Relations Coordinator (Sports)",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Event Finance Analyst (Sports)",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Game Day Operations Planner (Office)",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Merchandise Planning Analyst (Sports)",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Season Ticket Operations Manager",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Sponsorship Coordinator",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Team Operations Coordinator (Office)",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Ticketing Analyst",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Venue Scheduling Coordinator",
+    "category": "Sports & Entertainment"
+  },
+  {
+    "role": "Capacity Planning Analyst (Telecom)",
+    "category": "Telecom"
+  },
+  {
+    "role": "Customer Provisioning Specialist (Office)",
+    "category": "Telecom"
+  },
+  {
+    "role": "Field Operations Coordinator (Telecom)",
+    "category": "Telecom"
+  },
+  {
+    "role": "Network Planning Analyst (Telecom)",
+    "category": "Telecom"
+  },
+  {
+    "role": "OSS/BSS Analyst",
+    "category": "Telecom"
+  },
+  {
+    "role": "Partner Operations Manager (Telecom)",
+    "category": "Telecom"
+  },
+  {
+    "role": "Regulatory Compliance Analyst (Telecom)",
+    "category": "Telecom"
+  },
+  {
+    "role": "Service Assurance Coordinator (Office)",
+    "category": "Telecom"
+  },
+  {
+    "role": "Spectrum Manager (Office)",
+    "category": "Telecom"
+  },
+  {
+    "role": "Telecom Product Manager",
+    "category": "Telecom"
+  },
+  {
+    "role": "Proposal/Bid Manager",
+    "category": "Proposal & Bid Management"
+  },
+  {
+    "role": "RFP Manager",
+    "category": "Proposal & Bid Management"
+  },
+  {
+    "role": "Small Business Owner",
+    "category": "Frontline Management"
+  }
+]

@@ -1,0 +1,24 @@
+[project]
+name = "job-embedding-experiment"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "sentence-transformers>=3.0,<4.0",
+    "scikit-learn>=1.4,<2.0",
+    "rapidfuzz>=3.6,<4.0",
+    "rank-bm25>=0.2.2,<1.0",
+    "matplotlib>=3.8,<4.0",
+    "seaborn>=0.13,<1.0",
+    "numpy>=1.26,<2.0",
+    "anthropic>=0.40,<1.0",
+    "scipy>=1.12,<2.0",
+    "pyyaml>=6.0,<7.0",
+    "pytest>=8.0,<10.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]

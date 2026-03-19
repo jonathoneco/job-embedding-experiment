@@ -1,0 +1,729 @@
+[
+  {
+    "id": "",
+    "input_title": "Sr. HRBP",
+    "correct_roles": [{"role": "HR Business Partner", "category": "Human Resources"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Stacked abbreviations: Sr. (Senior) + HRBP (HR Business Partner)"
+  },
+  {
+    "id": "",
+    "input_title": "VP Eng",
+    "correct_roles": [{"role": "Engineering Manager", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "VP-level abbreviation for engineering leadership"
+  },
+  {
+    "id": "",
+    "input_title": "Assoc. Dir. Mktg",
+    "correct_roles": [{"role": "Marketing Manager", "category": "Marketing"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Triple abbreviation chain: Associate Director of Marketing"
+  },
+  {
+    "id": "",
+    "input_title": "Jr. FE Dev",
+    "correct_roles": [{"role": "Frontend Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Junior Frontend Developer - multiple abbreviations"
+  },
+  {
+    "id": "",
+    "input_title": "Lead SRE",
+    "correct_roles": [{"role": "Site Reliability Engineer (SRE)", "category": "Information Technology"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Lead + SRE acronym"
+  },
+  {
+    "id": "",
+    "input_title": "Sr. PM",
+    "correct_roles": [
+      {"role": "Project Manager", "category": "Operations"},
+      {"role": "Product Manager", "category": "Project Management"},
+      {"role": "Program Manager", "category": "Project Management"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Ambiguous: PM could be Project, Product, or Program Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Dir. CS Ops",
+    "correct_roles": [{"role": "Customer Support Director", "category": "Customer Service"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Director of Customer Service Operations"
+  },
+  {
+    "id": "",
+    "input_title": "VP of PPM",
+    "correct_roles": [{"role": "Portfolio Manager", "category": "Project Management"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "VP of Project Portfolio Management"
+  },
+  {
+    "id": "",
+    "input_title": "Asst. Controller",
+    "correct_roles": [{"role": "Controller", "category": "Finance"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Assistant Controller abbreviation"
+  },
+  {
+    "id": "",
+    "input_title": "Chief People Off",
+    "correct_roles": [{"role": "HR Manager", "category": "Human Resources"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Truncated Chief People Officer"
+  },
+  {
+    "id": "",
+    "input_title": "Sr. BE Eng",
+    "correct_roles": [{"role": "Backend Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Senior Backend Engineer - stacked abbreviations"
+  },
+  {
+    "id": "",
+    "input_title": "Marketing Data Scientist",
+    "correct_roles": [
+      {"role": "Data Scientist", "category": "Data & Analytics"},
+      {"role": "Marketing Operations Manager", "category": "Marketing"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Blends Marketing and Data Science categories"
+  },
+  {
+    "id": "",
+    "input_title": "People Analytics Lead",
+    "correct_roles": [
+      {"role": "People Analytics Analyst", "category": "Human Resources"},
+      {"role": "Analytics Manager", "category": "Data & Analytics"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Could be HR analytics or general analytics role"
+  },
+  {
+    "id": "",
+    "input_title": "DevOps Security Engineer",
+    "correct_roles": [
+      {"role": "DevSecOps Engineer", "category": "Software Engineering"},
+      {"role": "DevOps Engineer", "category": "Information Technology"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Blends DevOps and security across IT and SWE"
+  },
+  {
+    "id": "",
+    "input_title": "Sales Engineering Consultant",
+    "correct_roles": [
+      {"role": "Solutions Engineer (Pre-Sales)", "category": "Software Engineering"},
+      {"role": "Enterprise Solution Specialist", "category": "Sales"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Blends Sales and Engineering categories"
+  },
+  {
+    "id": "",
+    "input_title": "Clinical Data Manager",
+    "correct_roles": [
+      {"role": "Clinical Trial Coordinator", "category": "Pharma & Life Sciences"},
+      {"role": "Health Information Manager", "category": "Healthcare"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Spans Healthcare and Pharma data management"
+  },
+  {
+    "id": "",
+    "input_title": "Financial Technology Analyst",
+    "correct_roles": [
+      {"role": "Financial Analyst", "category": "Finance"},
+      {"role": "IT Financial Management (FinOps) Analyst", "category": "Information Technology"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Blends Finance and IT categories"
+  },
+  {
+    "id": "",
+    "input_title": "Legal Operations Technologist",
+    "correct_roles": [
+      {"role": "Legal Operations Manager", "category": "Legal"},
+      {"role": "eDiscovery Specialist", "category": "Legal"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Legal + Technology crossover role"
+  },
+  {
+    "id": "",
+    "input_title": "Brand Communications Strategist",
+    "correct_roles": [
+      {"role": "Brand Strategist", "category": "Design"},
+      {"role": "Communications Specialist", "category": "Communications"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Spans Design (brand) and Communications"
+  },
+  {
+    "id": "",
+    "input_title": "Revenue Operations Manager",
+    "correct_roles": [
+      {"role": "Sales Operations Analyst", "category": "Sales"},
+      {"role": "Operations Manager", "category": "Operations"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "RevOps spans Sales and Operations categories"
+  },
+  {
+    "id": "",
+    "input_title": "Supply Chain Data Engineer",
+    "correct_roles": [
+      {"role": "Data Engineer", "category": "Data & Analytics"},
+      {"role": "Supply Chain Analyst", "category": "Operations"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Blends Data Engineering and Supply Chain domains"
+  },
+  {
+    "id": "",
+    "input_title": "Growth Hacker",
+    "correct_roles": [{"role": "Growth Marketing Manager", "category": "Marketing"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Startup-era creative title for growth marketing"
+  },
+  {
+    "id": "",
+    "input_title": "People Ops Ninja",
+    "correct_roles": [{"role": "People Operations Specialist", "category": "Human Resources"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Playful startup title with 'Ninja' suffix"
+  },
+  {
+    "id": "",
+    "input_title": "Revenue Architect",
+    "correct_roles": [{"role": "Sales Enablement Manager", "category": "Sales"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Creative title for revenue strategy role"
+  },
+  {
+    "id": "",
+    "input_title": "Content Wizard",
+    "correct_roles": [{"role": "Content Marketer", "category": "Marketing"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Playful title for content creation role"
+  },
+  {
+    "id": "",
+    "input_title": "Code Craftsman",
+    "correct_roles": [{"role": "Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Artisanal/craft metaphor for software engineer"
+  },
+  {
+    "id": "",
+    "input_title": "Talent Whisperer",
+    "correct_roles": [{"role": "Recruiter", "category": "Human Resources"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Creative title for recruitment specialist"
+  },
+  {
+    "id": "",
+    "input_title": "Digital Sherpa",
+    "correct_roles": [{"role": "Digital Marketing Specialist", "category": "Marketing"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Metaphorical title for digital marketing guide"
+  },
+  {
+    "id": "",
+    "input_title": "Happiness Engineer",
+    "correct_roles": [{"role": "Customer Support Representative", "category": "Customer Service"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "WordPress/Automattic-style title for support rep"
+  },
+  {
+    "id": "",
+    "input_title": "Chief Storyteller",
+    "correct_roles": [{"role": "Communications Manager", "category": "Communications"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Creative C-suite title for communications lead"
+  },
+  {
+    "id": "",
+    "input_title": "Dream Alchemist",
+    "correct_roles": [{"role": "Innovation Program Manager", "category": "Executive Offices"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Extremely creative title for innovation role"
+  },
+  {
+    "id": "",
+    "input_title": "Pixel Pusher",
+    "correct_roles": [{"role": "Graphic Designer", "category": "Design"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Colloquial/humorous title for graphic designer"
+  },
+  {
+    "id": "",
+    "input_title": "Softwre Engneer",
+    "correct_roles": [{"role": "Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Common vowel-dropping typos in Software Engineer"
+  },
+  {
+    "id": "",
+    "input_title": "Finanical Analyst",
+    "correct_roles": [{"role": "Financial Analyst", "category": "Finance"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Common transposition typo in Financial"
+  },
+  {
+    "id": "",
+    "input_title": "Marketng Manager",
+    "correct_roles": [{"role": "Marketing Manager", "category": "Marketing"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Dropped vowel in Marketing"
+  },
+  {
+    "id": "",
+    "input_title": "Sachbearbeiter",
+    "correct_roles": [{"role": "Administrative Specialist", "category": "Administrative Support"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "German word for administrative clerk/specialist"
+  },
+  {
+    "id": "",
+    "input_title": "D\u00e9veloppeur",
+    "correct_roles": [{"role": "Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "French word for developer"
+  },
+  {
+    "id": "",
+    "input_title": "Projekct Manger",
+    "correct_roles": [{"role": "Project Manager", "category": "Operations"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Double typo in Project Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Accoutant",
+    "correct_roles": [{"role": "Accountant", "category": "Finance"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Missing 'n' in Accountant"
+  },
+  {
+    "id": "",
+    "input_title": "Datenanalyst",
+    "correct_roles": [{"role": "Data Analyst", "category": "Data & Analytics"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "German word for Data Analyst"
+  },
+  {
+    "id": "",
+    "input_title": "Ingenieur Logiciel",
+    "correct_roles": [{"role": "Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "French term for Software Engineer"
+  },
+  {
+    "id": "",
+    "input_title": "Reserach Cordinator",
+    "correct_roles": [{"role": "Research Coordinator", "category": "Research Administration"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Transposition and dropped letter typos"
+  },
+  {
+    "id": "",
+    "input_title": "Sales & Marketing Coordinator",
+    "correct_roles": [
+      {"role": "Sales Administrator", "category": "Sales"},
+      {"role": "Marketing Coordinator", "category": "Marketing"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "manual",
+    "notes": "Combined role spanning Sales and Marketing"
+  },
+  {
+    "id": "",
+    "input_title": "HR/Finance Manager",
+    "correct_roles": [
+      {"role": "HR Manager", "category": "Human Resources"},
+      {"role": "Finance Manager", "category": "Finance"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "manual",
+    "notes": "Slash-combined dual-function manager"
+  },
+  {
+    "id": "",
+    "input_title": "Design Engineer/PM",
+    "correct_roles": [
+      {"role": "Design Engineer", "category": "Design"},
+      {"role": "Product Manager", "category": "Project Management"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "manual",
+    "notes": "Combined Design Engineer and Product Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Office Admin & Receptionist",
+    "correct_roles": [
+      {"role": "Office Administrator", "category": "Administrative Support"},
+      {"role": "Receptionist", "category": "Administrative Support"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "manual",
+    "notes": "Combined administrative dual role"
+  },
+  {
+    "id": "",
+    "input_title": "QA/DevOps Engineer",
+    "correct_roles": [
+      {"role": "Quality Engineer (Software)", "category": "Software Engineering"},
+      {"role": "DevOps Engineer", "category": "Information Technology"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "manual",
+    "notes": "Combined QA and DevOps roles"
+  },
+  {
+    "id": "",
+    "input_title": "Escritor T\u00e9cnico",
+    "correct_roles": [{"role": "Technical Writer", "category": "Communications"}],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Spanish term for Technical Writer"
+  },
+  {
+    "id": "",
+    "input_title": "Scrum Coach & Agile Trainer",
+    "correct_roles": [
+      {"role": "Agile Coach", "category": "Project Management"},
+      {"role": "Scrum Master", "category": "Project Management"}
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "manual",
+    "notes": "Combined agile coaching role with synonym"
+  },
+  {
+    "id": "",
+    "input_title": "Full Stack Ninja",
+    "correct_roles": [{"role": "Full-Stack Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Playful startup title for full-stack developer"
+  },
+  {
+    "id": "",
+    "input_title": "Computer Programmer",
+    "correct_roles": [{"role": "Software Engineer", "category": "Software Engineering"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET alternative title for Software Engineer"
+  },
+  {
+    "id": "",
+    "input_title": "Personnel Recruiter",
+    "correct_roles": [{"role": "Recruiter", "category": "Human Resources"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET alternative title for Recruiter"
+  },
+  {
+    "id": "",
+    "input_title": "Bookkeeper",
+    "correct_roles": [{"role": "Bookkeeper", "category": "Finance"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "Exact match to taxonomy role"
+  },
+  {
+    "id": "",
+    "input_title": "Network Systems Administrator",
+    "correct_roles": [{"role": "Network Administrator", "category": "Information Technology"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET alternative title for Network Administrator"
+  },
+  {
+    "id": "",
+    "input_title": "Graphic Artist",
+    "correct_roles": [{"role": "Graphic Designer", "category": "Design"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET alternative title for Graphic Designer"
+  },
+  {
+    "id": "",
+    "input_title": "Budget Analyst",
+    "correct_roles": [{"role": "Financial Analyst", "category": "Finance"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET related title for Financial Analyst"
+  },
+  {
+    "id": "",
+    "input_title": "Training Specialist",
+    "correct_roles": [{"role": "Corporate Trainer", "category": "Education"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET alternative title for Corporate Trainer"
+  },
+  {
+    "id": "",
+    "input_title": "Information Security Analyst",
+    "correct_roles": [{"role": "Security Analyst", "category": "Security"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Security Analyst"
+  },
+  {
+    "id": "",
+    "input_title": "Management Analyst",
+    "correct_roles": [{"role": "Management Consultant", "category": "Operations"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Management Consultant"
+  },
+  {
+    "id": "",
+    "input_title": "Public Relations Specialist",
+    "correct_roles": [{"role": "Public Relations Manager", "category": "Communications"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Public Relations Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Compensation and Benefits Manager",
+    "correct_roles": [{"role": "Compensation Manager", "category": "Human Resources"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Compensation Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Computer Systems Administrator",
+    "correct_roles": [{"role": "Systems Administrator", "category": "Information Technology"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Systems Administrator"
+  },
+  {
+    "id": "",
+    "input_title": "Web Designer",
+    "correct_roles": [{"role": "Web Developer", "category": "Software Engineering"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET related title for Web Developer"
+  },
+  {
+    "id": "",
+    "input_title": "Purchasing Manager",
+    "correct_roles": [{"role": "Procurement Manager", "category": "Operations"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Procurement Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Insurance Underwriter",
+    "correct_roles": [{"role": "Underwriter", "category": "Insurance"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Underwriter"
+  },
+  {
+    "id": "",
+    "input_title": "Meeting Planner",
+    "correct_roles": [{"role": "Events Manager", "category": "Marketing"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET related title for Events Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Database Administrator",
+    "correct_roles": [{"role": "Data Engineer", "category": "Data & Analytics"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET related title for Data Engineer"
+  },
+  {
+    "id": "",
+    "input_title": "Statistician",
+    "correct_roles": [{"role": "Data Scientist", "category": "Data & Analytics"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET related title for Data Scientist"
+  },
+  {
+    "id": "",
+    "input_title": "Construction Manager",
+    "correct_roles": [{"role": "Construction Project Manager", "category": "Real Estate & Construction"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Construction Project Manager"
+  },
+  {
+    "id": "",
+    "input_title": "School Counselor",
+    "correct_roles": [{"role": "Academic Advisor", "category": "Education"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET related title for Academic Advisor"
+  },
+  {
+    "id": "",
+    "input_title": "Loan Processor",
+    "correct_roles": [{"role": "Loan Officer", "category": "Banking & Financial Services"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET related title for Loan Officer"
+  },
+  {
+    "id": "",
+    "input_title": "Industrial Production Manager",
+    "correct_roles": [{"role": "Operations Manager", "category": "Operations"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Operations Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Medical Records Technician",
+    "correct_roles": [{"role": "Health Information Manager", "category": "Healthcare"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Health Information Manager"
+  },
+  {
+    "id": "",
+    "input_title": "Urban Planner",
+    "correct_roles": [{"role": "City Planner", "category": "Government & Public Sector"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for City Planner"
+  },
+  {
+    "id": "",
+    "input_title": "Fundraiser",
+    "correct_roles": [{"role": "Fundraising Manager", "category": "Nonprofit & NGO"}],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Fundraising Manager"
+  }
+]

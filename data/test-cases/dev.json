@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "TC-0480",
+    "input_title": "Security Compliance Specialist",
+    "correct_roles": [
+      {
+        "role": "IT Compliance Analyst",
+        "category": "Information Technology"
+      },
+      {
+        "role": "Security Analyst",
+        "category": "Security"
+      },
+      {
+        "role": "Compliance Officer",
+        "category": "Legal"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Could be dedicated security role or legal compliance"
+  },
+  {
+    "id": "TC-0051",
+    "input_title": "Lead Community Relations Coordinator (Sports)",
+    "correct_roles": [
+      {
+        "role": "Community Relations Coordinator (Sports)",
+        "category": "Sports & Entertainment"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "rule-based",
+    "notes": "level-prefix transform of 'Community Relations Coordinator (Sports)'"
+  },
+  {
+    "id": "TC-0577",
+    "input_title": "Gerente de Comunica\u00e7\u00f5es Internas",
+    "correct_roles": [
+      {
+        "role": "Internal Communications Manager",
+        "category": "Communications"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Portuguese for Internal Communications Manager"
+  },
+  {
+    "id": "TC-0572",
+    "input_title": "HRIS Analst + Payrl Speclist Combo",
+    "correct_roles": [
+      {
+        "role": "HRIS Analyst",
+        "category": "Human Resources"
+      },
+      {
+        "role": "Payroll Specialist",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "llm-adversarial",
+    "notes": "HRIS Analyst combined with Payroll Specialist duties"
+  },
+  {
+    "id": "TC-0476",
+    "input_title": "Digital Transformation Program Manager",
+    "correct_roles": [
+      {
+        "role": "Program Manager",
+        "category": "Project Management"
+      },
+      {
+        "role": "Technical Program Manager",
+        "category": "Information Technology"
+      },
+      {
+        "role": "Innovation Program Manager",
+        "category": "Executive Offices"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Digital transformation could be IT or executive initiative"
+  },
+  {
+    "id": "TC-0542",
+    "input_title": "EPM/BI Contoller",
+    "correct_roles": [
+      {
+        "role": "Controller",
+        "category": "Finance"
+      },
+      {
+        "role": "BI Developer",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "llm-adversarial",
+    "notes": "Enterprise Performance Management/Business Intelligence Controller with typo"
+  },
+  {
+    "id": "TC-0654",
+    "input_title": "Asst. Controller",
+    "correct_roles": [
+      {
+        "role": "Controller",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "manual",
+    "notes": "Assistant Controller abbreviation"
+  },
+  {
+    "id": "TC-0498",
+    "input_title": "Application Development Manager",
+    "correct_roles": [
+      {
+        "role": "Software Development Manager",
+        "category": "Software Engineering"
+      },
+      {
+        "role": "Engineering Manager",
+        "category": "Software Engineering"
+      },
+      {
+        "role": "IT Product Manager",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-adversarial",
+    "notes": "Application development is synonym for software development"
+  },
+  {
+    "id": "TC-0304",
+    "input_title": "GDPR Compliance Officer",
+    "correct_roles": [
+      {
+        "role": "Data Privacy Analyst",
+        "category": "Legal"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Uses specific regulation (GDPR) to indicate data privacy expertise"
+  },
+  {
+    "id": "TC-0159",
+    "input_title": "Documentation Specialist",
+    "correct_roles": [
+      {
+        "role": "Technical Writer",
+        "category": "Communications"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Documentation Specialist is often used for technical writing roles"
+  },
+  {
+    "id": "TC-0129",
+    "input_title": "Strategic Sourcing Coordinator",
+    "correct_roles": [
+      {
+        "role": "Procurement Coordinator",
+        "category": "Administrative Support"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Business terminology for procurement coordination"
+  },
+  {
+    "id": "TC-0513",
+    "input_title": "Customer Journey Analyst",
+    "correct_roles": [
+      {
+        "role": "Customer Insights Analyst",
+        "category": "Data & Analytics"
+      },
+      {
+        "role": "Experience Designer",
+        "category": "Design"
+      },
+      {
+        "role": "Customer Success Manager",
+        "category": "Customer Service"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Journey analysis could be UX design or customer success"
+  },
+  {
+    "id": "TC-0034",
+    "input_title": "Senior RFP Manager",
+    "correct_roles": [
+      {
+        "role": "RFP Manager",
+        "category": "Proposal & Bid Management"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "rule-based",
+    "notes": "level-prefix transform of 'RFP Manager'"
+  },
+  {
+    "id": "TC-0420",
+    "input_title": "Business Intelligence Specialist",
+    "correct_roles": [
+      {
+        "role": "BI Developer",
+        "category": "Data & Analytics"
+      },
+      {
+        "role": "Business Analyst",
+        "category": "Operations"
+      },
+      {
+        "role": "Data Analyst",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-adversarial",
+    "notes": "BI Developer commonly called BI Specialist, could be confused with general business analysis"
+  },
+  {
+    "id": "TC-0056",
+    "input_title": "cLINICAL dOCUMENTATION iMPROVEMENT (cdi) sPECIALIST",
+    "correct_roles": [
+      {
+        "role": "Clinical Documentation Improvement (CDI) Specialist",
+        "category": "Healthcare"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "case-variation",
+    "source": "rule-based",
+    "notes": "case-variation transform of 'Clinical Documentation Improvement (CDI) Specialist'"
+  },
+  {
+    "id": "TC-0497",
+    "input_title": "Corporate Communications Manager",
+    "correct_roles": [
+      {
+        "role": "Communications Manager",
+        "category": "Communications"
+      },
+      {
+        "role": "Internal Communications Manager",
+        "category": "Communications"
+      },
+      {
+        "role": "Executive Communications Coordinator",
+        "category": "Administrative Support"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-adversarial",
+    "notes": "Corporate qualifier could indicate executive support"
+  },
+  {
+    "id": "TC-0247",
+    "input_title": "Founder & CEO",
+    "correct_roles": [
+      {
+        "role": "Small Business Owner",
+        "category": "Frontline Management"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Common title for small business owners who started their company and serve as chief executive"
+  },
+  {
+    "id": "TC-0081",
+    "input_title": "Lead Monitoring & Evaluation Specialist",
+    "correct_roles": [
+      {
+        "role": "Monitoring & Evaluation Specialist",
+        "category": "Nonprofit & NGO"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "rule-based",
+    "notes": "level-prefix transform of 'Monitoring & Evaluation Specialist'"
+  },
+  {
+    "id": "TC-0116",
+    "input_title": "Lab Operations Coordinator (Admin) II",
+    "correct_roles": [
+      {
+        "role": "Lab Operations Coordinator (Admin)",
+        "category": "Research Administration"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-suffix",
+    "source": "rule-based",
+    "notes": "level-suffix transform of 'Lab Operations Coordinator (Admin)'"
+  },
+  {
+    "id": "TC-0565",
+    "input_title": "ScrumMstr/AgileCoach Hybrd",
+    "correct_roles": [
+      {
+        "role": "Scrum Master",
+        "category": "Project Management"
+      },
+      {
+        "role": "Agile Coach",
+        "category": "Project Management"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "llm-adversarial",
+    "notes": "Heavy abbreviation of Scrum Master/Agile Coach hybrid role"
+  },
+  {
+    "id": "TC-0658",
+    "input_title": "People Analytics Lead",
+    "correct_roles": [
+      {
+        "role": "People Analytics Analyst",
+        "category": "Human Resources"
+      },
+      {
+        "role": "Analytics Manager",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Could be HR analytics or general analytics role"
+  },
+  {
+    "id": "TC-0008",
+    "input_title": "Field Operations Coordinator III",
+    "correct_roles": [
+      {
+        "role": "Field Operations Coordinator",
+        "category": "Manufacturing"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-suffix",
+    "source": "rule-based",
+    "notes": "level-suffix transform of 'Field Operations Coordinator'"
+  },
+  {
+    "id": "TC-0326",
+    "input_title": "Mine Safety and Compliance Analyst",
+    "correct_roles": [
+      {
+        "role": "Safety & Compliance Analyst (Mining)",
+        "category": "Mining"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Simple reordering and expansion of the title with 'Mine' prefix"
+  },
+  {
+    "id": "TC-0582",
+    "input_title": "BI Devlpr + Data Stewrd Combo Role",
+    "correct_roles": [
+      {
+        "role": "BI Developer",
+        "category": "Data & Analytics"
+      },
+      {
+        "role": "Data Steward",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "llm-adversarial",
+    "notes": "BI Developer combined with Data Steward responsibilities"
+  },
+  {
+    "id": "TC-0323",
+    "input_title": "IP Rights Analyst",
+    "correct_roles": [
+      {
+        "role": "Rights Management Analyst",
+        "category": "Media & Entertainment"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "IP (Intellectual Property) is commonly used synonym for rights in media industry"
+  },
+  {
+    "id": "TC-0664",
+    "input_title": "Brand Communications Strategist",
+    "correct_roles": [
+      {
+        "role": "Brand Strategist",
+        "category": "Design"
+      },
+      {
+        "role": "Communications Specialist",
+        "category": "Communications"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Spans Design (brand) and Communications"
+  },
+  {
+    "id": "TC-0060",
+    "input_title": "Strategist",
+    "correct_roles": [
+      {
+        "role": "Strategist (Agency)",
+        "category": "Agency & Advertising"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "minor-rewording",
+    "source": "rule-based",
+    "notes": "minor-rewording transform of 'Strategist (Agency)'"
+  },
+  {
+    "id": "TC-0478",
+    "input_title": "Compliance Risk Analyst",
+    "correct_roles": [
+      {
+        "role": "Compliance Analyst",
+        "category": "Banking & Financial Services"
+      },
+      {
+        "role": "Risk Analyst",
+        "category": "Banking & Financial Services"
+      },
+      {
+        "role": "Compliance Officer",
+        "category": "Legal"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Could focus on risk analysis or legal compliance"
+  },
+  {
+    "id": "TC-0460",
+    "input_title": "Service Delivery Analyst",
+    "correct_roles": [
+      {
+        "role": "Service Delivery Manager",
+        "category": "Information Technology"
+      },
+      {
+        "role": "Operations Analyst",
+        "category": "Operations"
+      },
+      {
+        "role": "Customer Service Manager",
+        "category": "Customer Service"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Service delivery analysis could be IT service delivery, operations, or customer service"
+  },
+  {
+    "id": "TC-0343",
+    "input_title": "Manufacturing Scheduler",
+    "correct_roles": [
+      {
+        "role": "Production Planner",
+        "category": "Operations"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Scheduling production activities is core to production planning"
+  },
+  {
+    "id": "TC-0162",
+    "input_title": "Consumer Insights Category Manager",
+    "correct_roles": [
+      {
+        "role": "Category Insights Manager (CPG)",
+        "category": "Consumer Packaged Goods (CPG)"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Uses 'Consumer Insights' instead of 'Category Insights' and reorders manager role"
+  },
+  {
+    "id": "TC-0238",
+    "input_title": "Asset Lifecycle Management Analyst",
+    "correct_roles": [
+      {
+        "role": "ALM Analyst",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Full form of ALM in finance context"
+  },
+  {
+    "id": "TC-0298",
+    "input_title": "Policy Services Representative",
+    "correct_roles": [
+      {
+        "role": "Policy Administration Specialist",
+        "category": "Insurance"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Customer-facing title for policy administration functions"
+  },
+  {
+    "id": "TC-0695",
+    "input_title": "Full Stack Ninja",
+    "correct_roles": [
+      {
+        "role": "Full-Stack Software Engineer",
+        "category": "Software Engineering"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Playful startup title for full-stack developer"
+  },
+  {
+    "id": "TC-0379",
+    "input_title": "Product Mix Planning Analyst",
+    "correct_roles": [
+      {
+        "role": "Assortment Planner",
+        "category": "Retail & E-commerce"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Product mix planning is retail jargon for assortment planning"
+  },
+  {
+    "id": "TC-0696",
+    "input_title": "Computer Programmer",
+    "correct_roles": [
+      {
+        "role": "Software Engineer",
+        "category": "Software Engineering"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET alternative title for Software Engineer"
+  },
+  {
+    "id": "TC-0203",
+    "input_title": "LXD",
+    "correct_roles": [
+      {
+        "role": "Learning Experience Designer",
+        "category": "Education"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Common industry abbreviation for Learning Experience Designer"
+  },
+  {
+    "id": "TC-0368",
+    "input_title": "Deal Analyst",
+    "correct_roles": [
+      {
+        "role": "Acquisitions Analyst",
+        "category": "Real Estate & Construction"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Real estate industry jargon where 'deals' often refer to property acquisitions"
+  },
+  {
+    "id": "TC-0485",
+    "input_title": "Financial Controls Analyst",
+    "correct_roles": [
+      {
+        "role": "Internal Auditor",
+        "category": "Finance"
+      },
+      {
+        "role": "Financial Analyst",
+        "category": "Finance"
+      },
+      {
+        "role": "SOX Compliance Analyst",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-adversarial",
+    "notes": "Controls is internal audit jargon but could be general finance"
+  },
+  {
+    "id": "TC-0472",
+    "input_title": "Digital Product Strategist",
+    "correct_roles": [
+      {
+        "role": "Product Manager",
+        "category": "Project Management"
+      },
+      {
+        "role": "Product Marketing Manager",
+        "category": "Marketing"
+      },
+      {
+        "role": "Data Product Manager",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Could be marketing-focused or data product management"
+  },
+  {
+    "id": "TC-0303",
+    "input_title": "AML Analyst",
+    "correct_roles": [
+      {
+        "role": "AML Compliance Analyst",
+        "category": "Legal"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Dropped 'Compliance' from title while keeping AML domain knowledge"
+  },
+  {
+    "id": "TC-0346",
+    "input_title": "Stock Control Analyst",
+    "correct_roles": [
+      {
+        "role": "Inventory Analyst",
+        "category": "Operations"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Stock control is another term for inventory management"
+  },
+  {
+    "id": "TC-0017",
+    "input_title": "Telecom Product Mgr",
+    "correct_roles": [
+      {
+        "role": "Telecom Product Manager",
+        "category": "Telecom"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "rule-based",
+    "notes": "abbreviation transform of 'Telecom Product Manager'"
+  },
+  {
+    "id": "TC-0098",
+    "input_title": "Leasing Conslt",
+    "correct_roles": [
+      {
+        "role": "Leasing Consultant",
+        "category": "Real Estate & Construction"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "rule-based",
+    "notes": "abbreviation transform of 'Leasing Consultant'"
+  },
+  {
+    "id": "TC-0708",
+    "input_title": "Purchasing Manager",
+    "correct_roles": [
+      {
+        "role": "Procurement Manager",
+        "category": "Operations"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Procurement Manager"
+  },
+  {
+    "id": "TC-0586",
+    "input_title": "Reg Affrs Spec + Compli Analst Mix",
+    "correct_roles": [
+      {
+        "role": "Regulatory Affairs Specialist",
+        "category": "Legal"
+      },
+      {
+        "role": "Compliance Analyst",
+        "category": "Banking & Financial Services"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "llm-adversarial",
+    "notes": "Regulatory Affairs Specialist mixed with Compliance Analyst duties"
+  },
+  {
+    "id": "TC-0640",
+    "input_title": "Nonprofit/Dev Fundraisr",
+    "correct_roles": [
+      {
+        "role": "Development Coordinator",
+        "category": "Nonprofit & NGO"
+      },
+      {
+        "role": "Fundraising Manager",
+        "category": "Nonprofit & NGO"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "llm-adversarial",
+    "notes": "Nonprofit development fundraising with misspelled fundraiser"
+  },
+  {
+    "id": "TC-0603",
+    "input_title": "Analista di Sicurezza Informatica",
+    "correct_roles": [
+      {
+        "role": "Security Analyst",
+        "category": "Security"
+      },
+      {
+        "role": "IT Professional",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Italian for IT Security Analyst"
+  },
+  {
+    "id": "TC-0280",
+    "input_title": "Network Admin",
+    "correct_roles": [
+      {
+        "role": "Network Administrator",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Admin is common abbreviation for Administrator"
+  },
+  {
+    "id": "TC-0538",
+    "input_title": "Supply Chn Analytic",
+    "correct_roles": [
+      {
+        "role": "Supply Chain Analyst",
+        "category": "Operations"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "llm-adversarial",
+    "notes": "Supply Chain Analyst with typos in chain and analytics"
+  },
+  {
+    "id": "TC-0533",
+    "input_title": "CFO EA & Corpdev",
+    "correct_roles": [
+      {
+        "role": "Executive Assistant",
+        "category": "Administrative Support"
+      },
+      {
+        "role": "Corporate Development Manager",
+        "category": "Executive Offices"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "llm-adversarial",
+    "notes": "Chief Financial Officer Executive Assistant with Corporate Development duties"
+  },
+  {
+    "id": "TC-0152",
+    "input_title": "OFAC Sanctions Specialist",
+    "correct_roles": [
+      {
+        "role": "Sanctions Analyst",
+        "category": "Banking & Financial Services"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "OFAC (Office of Foreign Assets Control) reference with 'Specialist' instead of 'Analyst'"
+  },
+  {
+    "id": "TC-0064",
+    "input_title": "underwriter",
+    "correct_roles": [
+      {
+        "role": "Underwriter",
+        "category": "Insurance"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "case-variation",
+    "source": "rule-based",
+    "notes": "case-variation transform of 'Underwriter'"
+  },
+  {
+    "id": "TC-0268",
+    "input_title": "Benefits Admin",
+    "correct_roles": [
+      {
+        "role": "Benefits Administrator",
+        "category": "Human Resources"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Shortened form of Administrator"
+  },
+  {
+    "id": "TC-0329",
+    "input_title": "GIS Analyst - Mining Operations",
+    "correct_roles": [
+      {
+        "role": "Geospatial Data Analyst (Mining)",
+        "category": "Mining"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Uses common GIS abbreviation for Geographic Information Systems/geospatial work"
+  },
+  {
+    "id": "TC-0458",
+    "input_title": "Financial Planning Analyst",
+    "correct_roles": [
+      {
+        "role": "Financial Planning and Analysis",
+        "category": "Finance"
+      },
+      {
+        "role": "Financial Analyst",
+        "category": "Finance"
+      },
+      {
+        "role": "FP&A Manager",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-adversarial",
+    "notes": "Financial planning analyst is FP&A but could be general financial analysis"
+  },
+  {
+    "id": "TC-0086",
+    "input_title": "Packaging Developer (Office)",
+    "correct_roles": [
+      {
+        "role": "Packaging Engineer (Office)",
+        "category": "Consumer Packaged Goods (CPG)"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "minor-rewording",
+    "source": "rule-based",
+    "notes": "minor-rewording transform of 'Packaging Engineer (Office)'"
+  },
+  {
+    "id": "TC-0320",
+    "input_title": "Channel Marketing Manager",
+    "correct_roles": [
+      {
+        "role": "Partner Marketing Manager",
+        "category": "Marketing"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Channel marketing is industry terminology for partner/channel relationships"
+  },
+  {
+    "id": "TC-0686",
+    "input_title": "Ingenieur Logiciel",
+    "correct_roles": [
+      {
+        "role": "Software Engineer",
+        "category": "Software Engineering"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "French term for Software Engineer"
+  },
+  {
+    "id": "TC-0176",
+    "input_title": "ML Engineer",
+    "correct_roles": [
+      {
+        "role": "Machine Learning Engineer",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Common abbreviation for Machine Learning Engineer"
+  },
+  {
+    "id": "TC-0106",
+    "input_title": "Operations Manager, Design",
+    "correct_roles": [
+      {
+        "role": "Design Operations Manager",
+        "category": "Design"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "word-reordering",
+    "source": "rule-based",
+    "notes": "word-reordering transform of 'Design Operations Manager'"
+  },
+  {
+    "id": "TC-0042",
+    "input_title": "(A/B) Analyst, Experimentation",
+    "correct_roles": [
+      {
+        "role": "Experimentation (A/B) Analyst",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "word-reordering",
+    "source": "rule-based",
+    "notes": "word-reordering transform of 'Experimentation (A/B) Analyst'"
+  },
+  {
+    "id": "TC-0661",
+    "input_title": "Clinical Data Manager",
+    "correct_roles": [
+      {
+        "role": "Clinical Trial Coordinator",
+        "category": "Pharma & Life Sciences"
+      },
+      {
+        "role": "Health Information Manager",
+        "category": "Healthcare"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "cross-category",
+    "source": "manual",
+    "notes": "Spans Healthcare and Pharma data management"
+  },
+  {
+    "id": "TC-0263",
+    "input_title": "Guest Services Manager",
+    "correct_roles": [
+      {
+        "role": "Guest Relations Manager (Office)",
+        "category": "Hospitality & Travel"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Guest Services is commonly used interchangeably with Guest Relations"
+  },
+  {
+    "id": "TC-0093",
+    "input_title": "Associate Transmission Planning Analyst (Office)",
+    "correct_roles": [
+      {
+        "role": "Transmission Planning Analyst (Office)",
+        "category": "Energy & Utilities"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "rule-based",
+    "notes": "level-prefix transform of 'Transmission Planning Analyst (Office)'"
+  },
+  {
+    "id": "TC-0173",
+    "input_title": "Support Ops Analyst",
+    "correct_roles": [
+      {
+        "role": "Support Operations Analyst",
+        "category": "Customer Service"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Operations shortened to Ops, common in support operations roles"
+  },
+  {
+    "id": "TC-0503",
+    "input_title": "Performance Marketing Analyst",
+    "correct_roles": [
+      {
+        "role": "Digital Marketing Specialist",
+        "category": "Marketing"
+      },
+      {
+        "role": "Marketing Operations Manager",
+        "category": "Marketing"
+      },
+      {
+        "role": "Data Analyst",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-adversarial",
+    "notes": "Performance marketing is digital marketing jargon"
+  },
+  {
+    "id": "TC-0170",
+    "input_title": "Knowledge Management Coordinator",
+    "correct_roles": [
+      {
+        "role": "Knowledge Base Manager",
+        "category": "Customer Service"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Alternative phrasing emphasizing coordination aspect of knowledge management"
+  },
+  {
+    "id": "TC-0292",
+    "input_title": "IT Asset Coordinator",
+    "correct_roles": [
+      {
+        "role": "IT Asset Manager",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Coordinator used instead of Manager for asset role"
+  },
+  {
+    "id": "TC-0199",
+    "input_title": "Academic Counselor",
+    "correct_roles": [
+      {
+        "role": "Academic Advisor",
+        "category": "Education"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Counselor is a direct synonym for advisor in academic contexts"
+  },
+  {
+    "id": "TC-0088",
+    "input_title": "alumni relations manager",
+    "correct_roles": [
+      {
+        "role": "Alumni Relations Manager",
+        "category": "Education"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "case-variation",
+    "source": "rule-based",
+    "notes": "case-variation transform of 'Alumni Relations Manager'"
+  },
+  {
+    "id": "TC-0010",
+    "input_title": "Customs Compliance Expert",
+    "correct_roles": [
+      {
+        "role": "Customs Compliance Specialist",
+        "category": "Supply Chain & Logistics"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "minor-rewording",
+    "source": "rule-based",
+    "notes": "minor-rewording transform of 'Customs Compliance Specialist'"
+  },
+  {
+    "id": "TC-0669",
+    "input_title": "Revenue Architect",
+    "correct_roles": [
+      {
+        "role": "Sales Enablement Manager",
+        "category": "Sales"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Creative title for revenue strategy role"
+  },
+  {
+    "id": "TC-0117",
+    "input_title": "Senior Chief of Staff",
+    "correct_roles": [
+      {
+        "role": "Chief of Staff",
+        "category": "Executive Offices"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "rule-based",
+    "notes": "level-prefix transform of 'Chief of Staff'"
+  },
+  {
+    "id": "TC-0410",
+    "input_title": "Inbound/Outbound Operations Coordinator",
+    "correct_roles": [
+      {
+        "role": "Last-Mile Operations Coordinator",
+        "category": "Supply Chain & Logistics"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Describes the coordination of final delivery operations using warehouse terminology"
+  },
+  {
+    "id": "TC-0192",
+    "input_title": "ResearchOps Manager",
+    "correct_roles": [
+      {
+        "role": "Research Operations Manager",
+        "category": "Design"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "ResearchOps is emerging jargon for Research Operations"
+  },
+  {
+    "id": "TC-0228",
+    "input_title": "Strategic Planning Analyst",
+    "correct_roles": [
+      {
+        "role": "Strategy Analyst",
+        "category": "Executive Offices"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Strategic Planning is a common variation of Strategy"
+  },
+  {
+    "id": "TC-0444",
+    "input_title": "Vendor Relations Manager",
+    "correct_roles": [
+      {
+        "role": "Vendor Manager",
+        "category": "Operations"
+      },
+      {
+        "role": "Procurement Manager",
+        "category": "Operations"
+      },
+      {
+        "role": "IT Vendor Manager",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-adversarial",
+    "notes": "Vendor relations vs vendor management, could be general operations or IT specific"
+  },
+  {
+    "id": "TC-0393",
+    "input_title": "Security Engineer",
+    "correct_roles": [
+      {
+        "role": "Application Security Engineer",
+        "category": "Software Engineering"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Application context implied in software engineering category"
+  },
+  {
+    "id": "TC-0585",
+    "input_title": "Respons\u00e1vel Opera\u00e7\u00f5es de Produto",
+    "correct_roles": [
+      {
+        "role": "Product Operations Manager",
+        "category": "Project Management"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Portuguese for Product Operations Manager"
+  },
+  {
+    "id": "TC-0248",
+    "input_title": "Municipal Budget Analyst",
+    "correct_roles": [
+      {
+        "role": "Budget Analyst (Public)",
+        "category": "Government & Public Sector"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Municipal is a direct synonym for public sector"
+  },
+  {
+    "id": "TC-0389",
+    "input_title": "Senior Software Engineer",
+    "correct_roles": [
+      {
+        "role": "Software Engineer",
+        "category": "Software Engineering"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "llm-systematic",
+    "notes": "Standard seniority level prefix added to basic role"
+  },
+  {
+    "id": "TC-0182",
+    "input_title": "Digital Analytics Consultant",
+    "correct_roles": [
+      {
+        "role": "Web Analytics Specialist",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Digital analytics often refers to web and online analytics"
+  },
+  {
+    "id": "TC-0319",
+    "input_title": "Marketing Automation Specialist",
+    "correct_roles": [
+      {
+        "role": "Marketing Operations Manager",
+        "category": "Marketing"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Marketing automation is a key function within marketing operations"
+  },
+  {
+    "id": "TC-0058",
+    "input_title": "Int. Marketing",
+    "correct_roles": [
+      {
+        "role": "Integrated Marketing",
+        "category": "Marketing"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "rule-based",
+    "notes": "abbreviation transform of 'Integrated Marketing'"
+  },
+  {
+    "id": "TC-0424",
+    "input_title": "Workforce Analytics Manager",
+    "correct_roles": [
+      {
+        "role": "People Analytics Analyst",
+        "category": "Human Resources"
+      },
+      {
+        "role": "Analytics Manager",
+        "category": "Data & Analytics"
+      },
+      {
+        "role": "HR Manager",
+        "category": "Human Resources"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Workforce analytics is HR domain but analytics title suggests data focus"
+  },
+  {
+    "id": "TC-0376",
+    "input_title": "Category Management Specialist",
+    "correct_roles": [
+      {
+        "role": "Category Manager",
+        "category": "Retail & E-commerce"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "llm-systematic",
+    "notes": "Used 'Specialist' instead of 'Manager' with expanded title"
+  },
+  {
+    "id": "TC-0190",
+    "input_title": "Information Architecture Lead",
+    "correct_roles": [
+      {
+        "role": "Information Architect",
+        "category": "Design"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Uses architecture as a discipline rather than architect as the role"
+  },
+  {
+    "id": "TC-0148",
+    "input_title": "Senior Loan Officer",
+    "correct_roles": [
+      {
+        "role": "Loan Officer",
+        "category": "Banking & Financial Services"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "llm-systematic",
+    "notes": "Added seniority level prefix to standard role title"
+  },
+  {
+    "id": "TC-0349",
+    "input_title": "Regulatory Affairs Associate I",
+    "correct_roles": [
+      {
+        "role": "Regulatory Affairs Associate",
+        "category": "Pharma & Life Sciences"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "llm-systematic",
+    "notes": "Added junior level designation to standard title"
+  },
+  {
+    "id": "TC-0037",
+    "input_title": "Pro. Scheduler (Office)",
+    "correct_roles": [
+      {
+        "role": "Programming Scheduler (Office)",
+        "category": "Media & Entertainment"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "rule-based",
+    "notes": "abbreviation transform of 'Programming Scheduler (Office)'"
+  },
+  {
+    "id": "TC-0523",
+    "input_title": "CX Guru & Success Ninja",
+    "correct_roles": [
+      {
+        "role": "Customer Success Manager",
+        "category": "Customer Service"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Creative titles for customer experience and success management"
+  },
+  {
+    "id": "TC-0090",
+    "input_title": "DEI Program Mgr",
+    "correct_roles": [
+      {
+        "role": "DEI Program Manager",
+        "category": "Human Resources"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "rule-based",
+    "notes": "abbreviation transform of 'DEI Program Manager'"
+  },
+  {
+    "id": "TC-0564",
+    "input_title": "Comptabilit\u00e9 & Contr\u00f4leur Financier",
+    "correct_roles": [
+      {
+        "role": "Controller",
+        "category": "Finance"
+      },
+      {
+        "role": "Accountant",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "French for accounting and financial controller"
+  },
+  {
+    "id": "TC-0539",
+    "input_title": "RPA/Autom Eng Spec",
+    "correct_roles": [
+      {
+        "role": "Automation Engineer (Office)",
+        "category": "Engineering"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "llm-adversarial",
+    "notes": "Robotic Process Automation and Automation Engineering Specialist"
+  },
+  {
+    "id": "TC-0495",
+    "input_title": "Customer Insights Manager",
+    "correct_roles": [
+      {
+        "role": "Customer Insights Analyst",
+        "category": "Data & Analytics"
+      },
+      {
+        "role": "Customer Insights Program Manager (CS)",
+        "category": "Customer Service"
+      },
+      {
+        "role": "Market Research Analyst",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Customer insights could be customer service program"
+  },
+  {
+    "id": "TC-0561",
+    "input_title": "Wrkflw Autom Spec",
+    "correct_roles": [
+      {
+        "role": "Business Analyst",
+        "category": "Operations"
+      },
+      {
+        "role": "Automation Engineer (Office)",
+        "category": "Engineering"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "llm-adversarial",
+    "notes": "Workflow Automation Specialist abbreviated"
+  },
+  {
+    "id": "TC-0135",
+    "input_title": "Agricultural Business Analyst",
+    "correct_roles": [
+      {
+        "role": "Agribusiness Analyst",
+        "category": "Agriculture"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Full expansion of 'Agribusiness' to 'Agricultural Business'"
+  },
+  {
+    "id": "TC-0104",
+    "input_title": "Administrative Support Lead",
+    "correct_roles": [
+      {
+        "role": "Administrative Support",
+        "category": "Administrative Support"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-suffix",
+    "source": "rule-based",
+    "notes": "level-suffix transform of 'Administrative Support'"
+  },
+  {
+    "id": "TC-0466",
+    "input_title": "Knowledge Management Specialist",
+    "correct_roles": [
+      {
+        "role": "Knowledge Manager",
+        "category": "Executive Offices"
+      },
+      {
+        "role": "Knowledge Base Manager",
+        "category": "Customer Service"
+      },
+      {
+        "role": "Information Architect",
+        "category": "Design"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Knowledge management could be executive, customer service, or information architecture"
+  },
+  {
+    "id": "TC-0276",
+    "input_title": "Organizational Development Consultant",
+    "correct_roles": [
+      {
+        "role": "Organizational Development Specialist",
+        "category": "Human Resources"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Uses 'Consultant' instead of 'Specialist' for OD role"
+  },
+  {
+    "id": "TC-0599",
+    "input_title": "Gerenciador de Opera\u00e7\u00f5es de TI",
+    "correct_roles": [
+      {
+        "role": "IT Operations Analyst",
+        "category": "Information Technology"
+      },
+      {
+        "role": "Operations Manager",
+        "category": "Operations"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Portuguese for IT Operations Manager"
+  },
+  {
+    "id": "TC-0512",
+    "input_title": "Learning Systems Administrator",
+    "correct_roles": [
+      {
+        "role": "Instructional Technologist",
+        "category": "Education"
+      },
+      {
+        "role": "Systems Administrator",
+        "category": "Information Technology"
+      },
+      {
+        "role": "Learning & Development Specialist",
+        "category": "Human Resources"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Systems administrator could be IT infrastructure role"
+  },
+  {
+    "id": "TC-0232",
+    "input_title": "A/P Specialist",
+    "correct_roles": [
+      {
+        "role": "AP Specialist",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Standard abbreviation for Accounts Payable"
+  },
+  {
+    "id": "TC-0613",
+    "input_title": "BI/ETL Pipeline Guru",
+    "correct_roles": [
+      {
+        "role": "BI Developer",
+        "category": "Data & Analytics"
+      },
+      {
+        "role": "Data Engineer",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "jargon",
+    "source": "llm-adversarial",
+    "notes": "BI Developer with ETL pipeline expertise"
+  },
+  {
+    "id": "TC-0496",
+    "input_title": "Quality Systems Engineer",
+    "correct_roles": [
+      {
+        "role": "Quality Systems Engineer (Office)",
+        "category": "Automotive"
+      },
+      {
+        "role": "Quality Engineer",
+        "category": "Engineering"
+      },
+      {
+        "role": "Manufacturing Quality Systems Manager",
+        "category": "Engineering"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Quality engineering could be general engineering role"
+  },
+  {
+    "id": "TC-0057",
+    "input_title": "Packaging Designer Lead",
+    "correct_roles": [
+      {
+        "role": "Packaging Designer",
+        "category": "Design"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-suffix",
+    "source": "rule-based",
+    "notes": "level-suffix transform of 'Packaging Designer'"
+  },
+  {
+    "id": "TC-0289",
+    "input_title": "Infrastructure Reliability Engineer",
+    "correct_roles": [
+      {
+        "role": "Site Reliability Engineer (SRE)",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Infrastructure focus variation of SRE role"
+  },
+  {
+    "id": "TC-0614",
+    "input_title": "HRIS/HCM Sys Admin",
+    "correct_roles": [
+      {
+        "role": "HRIS Analyst",
+        "category": "Human Resources"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "abbreviation",
+    "source": "llm-adversarial",
+    "notes": "HRIS with Human Capital Management system administration"
+  },
+  {
+    "id": "TC-0253",
+    "input_title": "Government Contracting Specialist",
+    "correct_roles": [
+      {
+        "role": "Procurement Officer (Public)",
+        "category": "Government & Public Sector"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Government contracting is specialized term for public procurement"
+  },
+  {
+    "id": "TC-0452",
+    "input_title": "Talent Development Manager",
+    "correct_roles": [
+      {
+        "role": "Learning & Development Specialist",
+        "category": "Human Resources"
+      },
+      {
+        "role": "Talent Operations Manager",
+        "category": "Human Resources"
+      },
+      {
+        "role": "Employee Experience Manager",
+        "category": "Human Resources"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-adversarial",
+    "notes": "Talent development is L&D but could suggest talent operations or employee experience"
+  },
+  {
+    "id": "TC-0136",
+    "input_title": "Crop Input Product Manager",
+    "correct_roles": [
+      {
+        "role": "Seed/Inputs Product Manager (Office)",
+        "category": "Agriculture"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Uses agriculture-specific term 'crop inputs' instead of 'seed/inputs'"
+  },
+  {
+    "id": "TC-0484",
+    "input_title": "Product Operations Lead",
+    "correct_roles": [
+      {
+        "role": "Product Operations Manager",
+        "category": "Project Management"
+      },
+      {
+        "role": "Operations Manager",
+        "category": "Operations"
+      },
+      {
+        "role": "IT Product Manager",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-adversarial",
+    "notes": "Lead is synonym for Manager, operations could be general"
+  },
+  {
+    "id": "TC-0140",
+    "input_title": "MEP Design Engineer",
+    "correct_roles": [
+      {
+        "role": "MEP Engineer (Office)",
+        "category": "Architecture, Engineering & Construction (AEC)"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Adds 'Design' to clarify office-based MEP engineering work vs field work"
+  },
+  {
+    "id": "TC-0413",
+    "input_title": "Reverse Supply Chain Analyst",
+    "correct_roles": [
+      {
+        "role": "Returns/Reverse Logistics Analyst",
+        "category": "Supply Chain & Logistics"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Reverse supply chain is another term for reverse logistics operations"
+  },
+  {
+    "id": "TC-0567",
+    "input_title": "Analista de Riesgos y Cumplimiento",
+    "correct_roles": [
+      {
+        "role": "Risk Analyst",
+        "category": "Banking & Financial Services"
+      },
+      {
+        "role": "Compliance Analyst",
+        "category": "Banking & Financial Services"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Spanish for risk and compliance analyst"
+  },
+  {
+    "id": "TC-0214",
+    "input_title": "Market Settlements Specialist",
+    "correct_roles": [
+      {
+        "role": "Settlements Analyst (Energy)",
+        "category": "Energy & Utilities"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Market context implies energy settlements, uses Specialist instead of Analyst"
+  },
+  {
+    "id": "TC-0631",
+    "input_title": "Brand/Creative Visionary",
+    "correct_roles": [
+      {
+        "role": "Brand Designer",
+        "category": "Design"
+      },
+      {
+        "role": "Creative Director",
+        "category": "Design"
+      },
+      {
+        "role": "Brand Strategist",
+        "category": "Design"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Brand design with creative direction and visionary leadership"
+  },
+  {
+    "id": "TC-0077",
+    "input_title": "Fixed Assets Accountant IV",
+    "correct_roles": [
+      {
+        "role": "Fixed Assets Accountant",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-suffix",
+    "source": "rule-based",
+    "notes": "level-suffix transform of 'Fixed Assets Accountant'"
+  },
+  {
+    "id": "TC-0119",
+    "input_title": "Demand Generation Lead",
+    "correct_roles": [
+      {
+        "role": "Demand Generation Manager",
+        "category": "Marketing"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "minor-rewording",
+    "source": "rule-based",
+    "notes": "minor-rewording transform of 'Demand Generation Manager'"
+  },
+  {
+    "id": "TC-0598",
+    "input_title": "Sys Admin/Platfrm Engnr Combo",
+    "correct_roles": [
+      {
+        "role": "Systems Administrator",
+        "category": "Information Technology"
+      },
+      {
+        "role": "Platform Engineer",
+        "category": "Software Engineering"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "llm-adversarial",
+    "notes": "Systems Administrator combo with Platform Engineer duties"
+  },
+  {
+    "id": "TC-0340",
+    "input_title": "QA Operations Specialist",
+    "correct_roles": [
+      {
+        "role": "Quality Assurance (Operations)",
+        "category": "Operations"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Reorders words but clearly indicates QA in operations"
+  },
+  {
+    "id": "TC-0004",
+    "input_title": "cad/bim mANAGER",
+    "correct_roles": [
+      {
+        "role": "CAD/BIM Manager",
+        "category": "Architecture, Engineering & Construction (AEC)"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "case-variation",
+    "source": "rule-based",
+    "notes": "case-variation transform of 'CAD/BIM Manager'"
+  },
+  {
+    "id": "TC-0074",
+    "input_title": "Sales Admin",
+    "correct_roles": [
+      {
+        "role": "Sales Administrator",
+        "category": "Sales"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "rule-based",
+    "notes": "abbreviation transform of 'Sales Administrator'"
+  },
+  {
+    "id": "TC-0132",
+    "input_title": "Brand Strategist",
+    "correct_roles": [
+      {
+        "role": "Strategist (Agency)",
+        "category": "Agency & Advertising"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Uses brand focus which is common in agency strategy roles"
+  },
+  {
+    "id": "TC-0645",
+    "input_title": "Cyber/InfoSec SOC Commander",
+    "correct_roles": [
+      {
+        "role": "SOC Manager",
+        "category": "Information Technology"
+      },
+      {
+        "role": "Security Analyst",
+        "category": "Security"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Cybersecurity Information Security SOC with military-style title"
+  },
+  {
+    "id": "TC-0216",
+    "input_title": "QA Manager",
+    "correct_roles": [
+      {
+        "role": "Quality Assurance Manager",
+        "category": "Engineering"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "abbreviation",
+    "source": "llm-systematic",
+    "notes": "Standard abbreviation for Quality Assurance"
+  },
+  {
+    "id": "TC-0261",
+    "input_title": "Physician Credentialing Coordinator",
+    "correct_roles": [
+      {
+        "role": "Credentialing Specialist",
+        "category": "Healthcare"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "creative",
+    "source": "llm-systematic",
+    "notes": "Specifies physician credentialing and uses Coordinator title instead of Specialist"
+  },
+  {
+    "id": "TC-0569",
+    "input_title": "Ing\u00e9nieur Logiciel Full-Stack",
+    "correct_roles": [
+      {
+        "role": "Full-Stack Software Engineer",
+        "category": "Software Engineering"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "French for Full-Stack Software Engineer"
+  },
+  {
+    "id": "TC-0684",
+    "input_title": "Accoutant",
+    "correct_roles": [
+      {
+        "role": "Accountant",
+        "category": "Finance"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "misspelling",
+    "source": "manual",
+    "notes": "Missing 'n' in Accountant"
+  },
+  {
+    "id": "TC-0403",
+    "input_title": "Corporate Partnership Coordinator",
+    "correct_roles": [
+      {
+        "role": "Sponsorship Coordinator",
+        "category": "Sports & Entertainment"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Corporate partnerships is professional terminology used for sponsorship relationships in sports"
+  },
+  {
+    "id": "TC-0526",
+    "input_title": "FE React Eng + UX",
+    "correct_roles": [
+      {
+        "role": "Frontend Software Engineer",
+        "category": "Software Engineering"
+      },
+      {
+        "role": "User Experience Designer",
+        "category": "Design"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "combined-role",
+    "source": "llm-adversarial",
+    "notes": "Frontend Engineer with React and UX responsibilities"
+  },
+  {
+    "id": "TC-0099",
+    "input_title": "Associate Compliance Officer",
+    "correct_roles": [
+      {
+        "role": "Compliance Officer",
+        "category": "Legal"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-prefix",
+    "source": "rule-based",
+    "notes": "level-prefix transform of 'Compliance Officer'"
+  },
+  {
+    "id": "TC-0084",
+    "input_title": "Dealer Network Development Analyst Senior",
+    "correct_roles": [
+      {
+        "role": "Dealer Network Development Analyst",
+        "category": "Automotive"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-suffix",
+    "source": "rule-based",
+    "notes": "level-suffix transform of 'Dealer Network Development Analyst'"
+  },
+  {
+    "id": "TC-0418",
+    "input_title": "RF Spectrum Coordinator",
+    "correct_roles": [
+      {
+        "role": "Spectrum Manager (Office)",
+        "category": "Telecom"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Uses RF (Radio Frequency) jargon and coordinator instead of manager title"
+  },
+  {
+    "id": "TC-0706",
+    "input_title": "Computer Systems Administrator",
+    "correct_roles": [
+      {
+        "role": "Systems Administrator",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Systems Administrator"
+  },
+  {
+    "id": "TC-0351",
+    "input_title": "GxP Quality Systems Coordinator",
+    "correct_roles": [
+      {
+        "role": "Quality Systems Coordinator (GxP)",
+        "category": "Pharma & Life Sciences"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Repositioned GxP from parenthetical to prefix position"
+  },
+  {
+    "id": "TC-0026",
+    "input_title": "Manager, Crisis Communications",
+    "correct_roles": [
+      {
+        "role": "Crisis Communications Manager",
+        "category": "Communications"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "word-reordering",
+    "source": "rule-based",
+    "notes": "word-reordering transform of 'Crisis Communications Manager'"
+  },
+  {
+    "id": "TC-0589",
+    "input_title": "Responsabile Marketing Digitale",
+    "correct_roles": [
+      {
+        "role": "Digital Marketing Specialist",
+        "category": "Marketing"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Italian for Digital Marketing Manager"
+  },
+  {
+    "id": "TC-0009",
+    "input_title": "Customer Service Representative III",
+    "correct_roles": [
+      {
+        "role": "Customer Service Representative",
+        "category": "Customer Service"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "level-suffix",
+    "source": "rule-based",
+    "notes": "level-suffix transform of 'Customer Service Representative'"
+  },
+  {
+    "id": "TC-0541",
+    "input_title": "Salesforce CPQ Ninja",
+    "correct_roles": [
+      {
+        "role": "CRM Administrator",
+        "category": "Marketing"
+      },
+      {
+        "role": "Business Systems Analyst",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "llm-adversarial",
+    "notes": "Salesforce Configure Price Quote specialist"
+  },
+  {
+    "id": "TC-0667",
+    "input_title": "Growth Hacker",
+    "correct_roles": [
+      {
+        "role": "Growth Marketing Manager",
+        "category": "Marketing"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "creative",
+    "source": "manual",
+    "notes": "Startup-era creative title for growth marketing"
+  },
+  {
+    "id": "TC-0335",
+    "input_title": "Gift Officer",
+    "correct_roles": [
+      {
+        "role": "Major Gifts Officer",
+        "category": "Nonprofit & NGO"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Shortened version of major gifts role title used in development field"
+  },
+  {
+    "id": "TC-0294",
+    "input_title": "Agile Release Manager",
+    "correct_roles": [
+      {
+        "role": "Release Train Engineer",
+        "category": "Information Technology"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Traditional release management term for SAFe RTE role"
+  },
+  {
+    "id": "TC-0373",
+    "input_title": "Scientific Publications Coordinator",
+    "correct_roles": [
+      {
+        "role": "Publication Manager (Admin)",
+        "category": "Research Administration"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Uses 'Scientific Publications' and 'Coordinator' instead of 'Publication Manager'"
+  },
+  {
+    "id": "TC-0712",
+    "input_title": "Construction Manager",
+    "correct_roles": [
+      {
+        "role": "Construction Project Manager",
+        "category": "Real Estate & Construction"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "onet",
+    "notes": "O*NET title for Construction Project Manager"
+  },
+  {
+    "id": "TC-0436",
+    "input_title": "Quality Systems Coordinator",
+    "correct_roles": [
+      {
+        "role": "Quality Assurance Manager",
+        "category": "Engineering"
+      },
+      {
+        "role": "Quality Systems Coordinator (CPG)",
+        "category": "Consumer Packaged Goods (CPG)"
+      },
+      {
+        "role": "Quality Systems Coordinator (GxP)",
+        "category": "Pharma & Life Sciences"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "cross-category",
+    "source": "llm-adversarial",
+    "notes": "Quality systems spans multiple industries with different regulatory requirements"
+  },
+  {
+    "id": "TC-0354",
+    "input_title": "PMO Business Analyst",
+    "correct_roles": [
+      {
+        "role": "PMO Analyst",
+        "category": "Project Management"
+      }
+    ],
+    "difficulty": "easy",
+    "variation_type": "synonym",
+    "source": "llm-systematic",
+    "notes": "Business Analyst is commonly used interchangeably with PMO Analyst"
+  },
+  {
+    "id": "TC-0562",
+    "input_title": "KPI/Metric Dashboard",
+    "correct_roles": [
+      {
+        "role": "Reporting Analyst",
+        "category": "Data & Analytics"
+      },
+      {
+        "role": "BI Developer",
+        "category": "Data & Analytics"
+      }
+    ],
+    "difficulty": "hard",
+    "variation_type": "jargon",
+    "source": "llm-adversarial",
+    "notes": "Key Performance Indicator and Metrics Dashboard specialist"
+  },
+  {
+    "id": "TC-0384",
+    "input_title": "Partner Channel Manager",
+    "correct_roles": [
+      {
+        "role": "Partner Account Manager",
+        "category": "Sales"
+      }
+    ],
+    "difficulty": "medium",
+    "variation_type": "jargon",
+    "source": "llm-systematic",
+    "notes": "Channel management is core function of partner account management"
+  }
+]

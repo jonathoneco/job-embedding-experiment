@@ -1,0 +1,1234 @@
+[
+  {
+    "cluster_label": "HR Strategy & Business Partnership",
+    "category": "Human Resources",
+    "roles": [
+      "HR Business Partner",
+      "HR Manager",
+      "HR Generalist",
+      "HR Consultant",
+      "People Operations Specialist",
+      "DEI Program Manager",
+      "Employee Experience Manager",
+      "Organizational Development Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Talent Acquisition & Development",
+    "category": "Human Resources",
+    "roles": [
+      "Recruiter",
+      "HR Recruiting Manager",
+      "Talent Acquisition Coordinator",
+      "Talent Operations Manager",
+      "Learning & Development Specialist",
+      "People Analytics Analyst",
+      "HRIS Analyst"
+    ]
+  },
+  {
+    "cluster_label": "HR Operations & Compliance",
+    "category": "Human Resources",
+    "roles": [
+      "HR Administrator",
+      "HR Compliance Officer",
+      "HR Data Privacy Specialist",
+      "HR Senior Service Manager",
+      "HR Service Manager",
+      "HR Support Advisor",
+      "Benefits Administrator",
+      "Compensation & Benefits Analyst",
+      "Compensation Manager",
+      "Payroll Manager",
+      "Employee Relations Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Enterprise & Strategic Sales",
+    "category": "Sales",
+    "roles": [
+      "Account Executive",
+      "Enterprise Account Executive",
+      "Cloud Solution Architect",
+      "Commercial Executive",
+      "Enterprise Solution Specialist",
+      "Digital Sales Specialist at Microsoft",
+      "Senior Sales Specialist at Microsoft",
+      "Digital Account Executive"
+    ]
+  },
+  {
+    "cluster_label": "Account Management & Sales Operations",
+    "category": "Sales",
+    "roles": [
+      "Account Manager",
+      "Channel Account Manager",
+      "Customer Success Account Manager",
+      "Partner Account Manager",
+      "Sales Administrator",
+      "Sales Enablement Manager",
+      "Sales Manager",
+      "Sales Operations Analyst",
+      "Sales Representative"
+    ]
+  },
+  {
+    "cluster_label": "Financial Accounting & Reporting",
+    "category": "Finance",
+    "roles": [
+      "Accountant",
+      "Senior Accountant",
+      "Revenue Accountant",
+      "Cost Accountant",
+      "Fixed Assets Accountant",
+      "Financial Accounting",
+      "Financial Reporting Analyst",
+      "Controller",
+      "Bookkeeper",
+      "Hedge Accounting Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Financial Planning & Analysis",
+    "category": "Finance",
+    "roles": [
+      "Financial Analyst",
+      "FP&A Manager",
+      "Financial Planning and Analysis",
+      "Financial Operations",
+      "Capital Planning Analyst",
+      "Billing Analyst",
+      "M&A Analyst",
+      "Valuation Analyst",
+      "Finance Business Partner",
+      "Finance Manager",
+      "ALM Analyst",
+      "Vendor Engagement Manager"
+    ]
+  },
+  {
+    "cluster_label": "Tax, Compliance & Treasury",
+    "category": "Finance",
+    "roles": [
+      "Tax Manager",
+      "Tax Specialist",
+      "Income Tax Compliance Manager",
+      "SOX Compliance Analyst",
+      "Internal Auditor",
+      "Audit, Risk and Compliance (ARC) Data Solution Manager",
+      "Treasury Analyst",
+      "Treasury Operations Analyst",
+      "AP Specialist",
+      "AR Specialist",
+      "Payroll Specialist",
+      "Credit Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Corporate & Transactional Law",
+    "category": "Legal",
+    "roles": [
+      "Corporate Counsel",
+      "Principal Corporate Counsel",
+      "Product Counsel",
+      "Contract Administrator",
+      "Contracts Manager",
+      "Legal Assistant",
+      "Paralegal",
+      "IP Paralegal",
+      "Legal Operations Manager",
+      "Trademark Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Compliance, Privacy & Regulatory",
+    "category": "Legal",
+    "roles": [
+      "Compliance Officer",
+      "AML Compliance Analyst",
+      "Anti-Corruption Compliance Analyst",
+      "Data Privacy Analyst",
+      "Data Protection Officer",
+      "Regulatory Affairs Specialist",
+      "Policy Governance Manager",
+      "eDiscovery Specialist",
+      "Litigation Support Specialist",
+      "Records & eDiscovery Manager"
+    ]
+  },
+  {
+    "cluster_label": "IT Operations & Support",
+    "category": "Information Technology",
+    "roles": [
+      "IT Administrator",
+      "IT Support Specialist",
+      "IT Service Desk Manager",
+      "Desktop Engineer",
+      "IT Professional",
+      "IT Operations Analyst"
+    ]
+  },
+  {
+    "cluster_label": "IT Infrastructure & Engineering",
+    "category": "Information Technology",
+    "roles": [
+      "Cloud Administrator",
+      "Network Administrator",
+      "Network Engineer",
+      "DevOps Engineer",
+      "Site Reliability Engineer (SRE)",
+      "Systems Administrator",
+      "Configuration Manager"
+    ]
+  },
+  {
+    "cluster_label": "IT Security & Governance",
+    "category": "Information Technology",
+    "roles": [
+      "GRC Analyst",
+      "Identity & Access Management Analyst",
+      "Incident Response Coordinator",
+      "IT Compliance Analyst",
+      "IT Governance Analyst",
+      "SOC Manager",
+      "IT Asset Manager",
+      "IT Financial Management (FinOps) Analyst",
+      "IT Vendor Manager",
+      "IT Procurement Analyst"
+    ]
+  },
+  {
+    "cluster_label": "IT Product & Platform",
+    "category": "Information Technology",
+    "roles": [
+      "Solutions Architect",
+      "Business Systems Analyst",
+      "QA Analyst (Software)",
+      "Release Train Engineer",
+      "Scrum Program Lead",
+      "Service Delivery Manager",
+      "Technical Program Manager",
+      "SharePoint Administrator",
+      "M365 Administrator",
+      "Power Platform Admin",
+      "CMDB Administrator",
+      "Launch Infrastructure Manager",
+      "Observability/Monitoring Analyst",
+      "Field IT Manager",
+      "IT Product Manager",
+      "Platform Product Manager"
+    ]
+  },
+  {
+    "cluster_label": "Digital & Growth Marketing",
+    "category": "Marketing",
+    "roles": [
+      "Digital Marketing Specialist",
+      "Growth Marketing Manager",
+      "SEO/SEM Specialist",
+      "Social Media Manager",
+      "Demand Generation Manager",
+      "ABM Manager",
+      "Lifecycle Marketing Manager",
+      "Affiliate Marketing Manager",
+      "Influencer Marketing Manager"
+    ]
+  },
+  {
+    "cluster_label": "Brand & Content Marketing",
+    "category": "Marketing",
+    "roles": [
+      "Brand Manager",
+      "Content Marketer",
+      "Copy Chief",
+      "Product Marketing Manager",
+      "Customer Marketing Manager",
+      "Integrated Marketing",
+      "Partner Marketing Manager",
+      "Field Marketing Manager",
+      "Events Manager"
+    ]
+  },
+  {
+    "cluster_label": "Marketing Operations & Media",
+    "category": "Marketing",
+    "roles": [
+      "Marketing Coordinator",
+      "Marketing Manager",
+      "Marketing Operations Manager",
+      "Campaign Operations Manager",
+      "CRM Administrator",
+      "Media Buyer",
+      "Media Planner",
+      "Traffic Manager"
+    ]
+  },
+  {
+    "cluster_label": "External Communications & PR",
+    "category": "Communications",
+    "roles": [
+      "Communications Manager",
+      "Communications VP",
+      "Public Relations Manager",
+      "Crisis Communications Manager",
+      "Issues Management Manager",
+      "Brand Social Communications Manager",
+      "Newsroom Assignment Editor",
+      "Rights & Clearances Manager",
+      "Communications Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Content & Editorial Operations",
+    "category": "Communications",
+    "roles": [
+      "Content Strategist",
+      "Copywriter",
+      "Editor",
+      "Technical Writer",
+      "Editorial Operations Manager",
+      "Internal Communications Director",
+      "Internal Communications Manager",
+      "Podcast Producer (Admin)"
+    ]
+  },
+  {
+    "cluster_label": "Executive & Office Administration",
+    "category": "Administrative Support",
+    "roles": [
+      "Executive Assistant",
+      "Executive Scheduler",
+      "Executive Communications Coordinator",
+      "Office Administrator",
+      "Office Manager",
+      "Office Policies Administrator",
+      "Front Desk Coordinator",
+      "Receptionist",
+      "Facilities Coordinator",
+      "Corporate Event Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Document Management & Coordination",
+    "category": "Administrative Support",
+    "roles": [
+      "Administrative Assistant",
+      "Administrative Coordinator",
+      "Administrative Specialist",
+      "Administrative Support",
+      "Corporate Archivist",
+      "Document Control Specialist",
+      "Document Specialist",
+      "Procurement Coordinator",
+      "Project Coordinator",
+      "Records Manager",
+      "Travel Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Design & Systems Engineering",
+    "category": "Engineering",
+    "roles": [
+      "BIM Coordinator",
+      "CAD Manager",
+      "Computer Systems Engineers",
+      "Configuration Engineer",
+      "Automation Engineer (Office)",
+      "Software Developers",
+      "Technical Writer (Engineering)"
+    ]
+  },
+  {
+    "cluster_label": "Manufacturing & Quality Engineering",
+    "category": "Engineering",
+    "roles": [
+      "Industrial Engineer",
+      "Process Engineer",
+      "Quality Assurance Manager",
+      "Quality Engineer",
+      "Reliability Engineer",
+      "Manufacturing Quality Systems Manager",
+      "New Product Introduction (NPI) Program Manager",
+      "PLM Analyst"
+    ]
+  },
+  {
+    "cluster_label": "C-Suite & Strategy",
+    "category": "Executive Offices",
+    "roles": [
+      "CEO",
+      "Chief Data Officer",
+      "Chief Information Officer",
+      "Chief Technology Officer",
+      "Chief of Staff",
+      "Corporate Development Manager",
+      "Corporate Strategy Manager",
+      "Strategy Analyst",
+      "Strategy Associate",
+      "Innovation Program Manager"
+    ]
+  },
+  {
+    "cluster_label": "Governance, Risk & Compliance",
+    "category": "Executive Offices",
+    "roles": [
+      "Enterprise Risk Manager",
+      "ESG Reporting Manager",
+      "Ethics & Compliance Manager",
+      "Executive (VP/Director)",
+      "Knowledge Manager",
+      "Policy & Governance Manager",
+      "Portfolio Governance Lead",
+      "Records & Information Manager",
+      "Sustainability Program Manager"
+    ]
+  },
+  {
+    "cluster_label": "Customer Support & Service Delivery",
+    "category": "Customer Service",
+    "roles": [
+      "Customer Service Agent",
+      "Customer Service Representative",
+      "Customer Support Representative",
+      "Customer Service Manager",
+      "Customer Support Manager",
+      "Customer Support Director",
+      "Field Support Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Customer Success & Engagement",
+    "category": "Customer Service",
+    "roles": [
+      "Customer Success Manager",
+      "Customer Education Manager",
+      "Customer Insights Program Manager (CS)",
+      "Community Manager",
+      "Onboarding Specialist (CS)",
+      "Professional Services Coordinator",
+      "Renewals Manager",
+      "Technical Account Manager"
+    ]
+  },
+  {
+    "cluster_label": "Technical Support & Operations",
+    "category": "Customer Service",
+    "roles": [
+      "Support Engineer",
+      "Technical Advisor",
+      "Escalation Engineer",
+      "Escalation Manager",
+      "Escalations Manager",
+      "Knowledge Base Manager",
+      "Support Operations Analyst",
+      "Support Readiness Manager"
+    ]
+  },
+  {
+    "cluster_label": "Business Analysis & Consulting",
+    "category": "Operations",
+    "roles": [
+      "Business Analyst",
+      "Business Manager",
+      "Management Consultant",
+      "Operations Analyst",
+      "Operations Specialist",
+      "Inventory Analyst",
+      "Production Planner",
+      "S&OP Planner",
+      "Supply Chain Analyst",
+      "Logistics Coordinator",
+      "Procurement Manager",
+      "Procurement Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Program & Change Management",
+    "category": "Operations",
+    "roles": [
+      "Operations Manager",
+      "Operations PM",
+      "Operations Program Manager",
+      "Project Manager",
+      "Change Manager",
+      "Business Continuity Manager",
+      "Internal Manager",
+      "Quality Assurance (Operations)",
+      "Shift Manager",
+      "Vendor Manager"
+    ]
+  },
+  {
+    "cluster_label": "UX Design & Research",
+    "category": "Design",
+    "roles": [
+      "User Experience Designer",
+      "User Experience Researcher",
+      "UX Researcher",
+      "User Experience Writer",
+      "UX Writer",
+      "Interaction Designer",
+      "Service Designer",
+      "Experience Designer",
+      "Design Researcher",
+      "Information Architect"
+    ]
+  },
+  {
+    "cluster_label": "Visual & Product Design",
+    "category": "Design",
+    "roles": [
+      "Graphic Designer",
+      "Brand Designer",
+      "Visual Designer",
+      "Motion Designer",
+      "Packaging Designer",
+      "Industrial Designer",
+      "Material Designer",
+      "Environmental Designer",
+      "Product Designer",
+      "Content Designer",
+      "Information Designer",
+      "Design Engineer"
+    ]
+  },
+  {
+    "cluster_label": "Design Leadership & Operations",
+    "category": "Design",
+    "roles": [
+      "Creative Director",
+      "Design Director",
+      "Experience Director",
+      "Design Operations Manager",
+      "Design Program Manager",
+      "Design Strategist",
+      "Design Systems Manager",
+      "Brand Strategist",
+      "Research Operations Manager",
+      "Video Producer (Admin)"
+    ]
+  },
+  {
+    "cluster_label": "Product & Portfolio Management",
+    "category": "Project Management",
+    "roles": [
+      "Product Manager",
+      "Product Owner",
+      "Product Operations Manager",
+      "Technical Product Manager",
+      "Portfolio Manager",
+      "OKR Program Manager",
+      "Business Relationship Manager"
+    ]
+  },
+  {
+    "cluster_label": "Project Execution & Agile",
+    "category": "Project Management",
+    "roles": [
+      "Program Manager",
+      "Agile Coach",
+      "Scrum Master",
+      "Release Manager",
+      "Business Project Analyst",
+      "Change Enablement Manager",
+      "PMO Analyst",
+      "Project Controls Analyst",
+      "Project Scheduler"
+    ]
+  },
+  {
+    "cluster_label": "Data Engineering & Management",
+    "category": "Data & Analytics",
+    "roles": [
+      "Data Engineer",
+      "Data Curator",
+      "Data Steward",
+      "Data Governance Analyst",
+      "Data Product Manager",
+      "BI Developer"
+    ]
+  },
+  {
+    "cluster_label": "Data Science & Machine Learning",
+    "category": "Data & Analytics",
+    "roles": [
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "NLP Analyst",
+      "Operations Research Analyst",
+      "Forecasting Analyst",
+      "Experimentation (A/B) Analyst",
+      "GeoSpatial (GIS) Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Analytics & Insights",
+    "category": "Data & Analytics",
+    "roles": [
+      "Data Analyst",
+      "Analytics Manager",
+      "Product Analytics Manager",
+      "Customer Insights Analyst",
+      "Market Research Analyst",
+      "Research Analyst",
+      "Reporting Analyst",
+      "Web Analytics Specialist",
+      "Pricing Analyst",
+      "Fraud Analyst",
+      "Risk Analytics Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Security",
+    "category": "Security",
+    "roles": [
+      "Security Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Demand & Supply Planning",
+    "category": "Supply Chain & Logistics",
+    "roles": [
+      "Demand Planner",
+      "Master Scheduler",
+      "Capacity Planner (Logistics)",
+      "Route Planner",
+      "Transportation Planner",
+      "Network Planning Analyst (Air/Rail)",
+      "Order Management Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Procurement & Supplier Management",
+    "category": "Supply Chain & Logistics",
+    "roles": [
+      "Strategic Sourcing Manager",
+      "Commodity Manager",
+      "Supplier Performance Analyst",
+      "Supplier Quality Engineer"
+    ]
+  },
+  {
+    "cluster_label": "Logistics & Trade Compliance",
+    "category": "Supply Chain & Logistics",
+    "roles": [
+      "Warehouse Manager",
+      "Warehouse Operations Analyst",
+      "Fleet Coordinator",
+      "Fleet Manager",
+      "Dispatcher (Office)",
+      "Freight Analyst",
+      "Intermodal Operations Analyst",
+      "Last-Mile Operations Coordinator",
+      "Returns/Reverse Logistics Analyst",
+      "Customs Compliance Analyst",
+      "Customs Compliance Specialist",
+      "Trade Compliance Analyst",
+      "Trade Compliance Manager"
+    ]
+  },
+  {
+    "cluster_label": "Manufacturing",
+    "category": "Manufacturing",
+    "roles": [
+      "EHS Specialist",
+      "Field Operations Coordinator",
+      "Maintenance Planner",
+      "Maintenance Planner/Scheduler",
+      "Manufacturing Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Clinical Operations & Patient Care",
+    "category": "Healthcare",
+    "roles": [
+      "Case Management Coordinator",
+      "Clinical Documentation Improvement (CDI) Specialist",
+      "Clinical Operations Coordinator",
+      "Credentialing Specialist",
+      "Patient Access Supervisor",
+      "Patient Services Coordinator",
+      "Practice Manager",
+      "Provider Enrollment Specialist",
+      "Quality & Patient Safety Coordinator (Admin)",
+      "Utilization Review Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Health Information & Revenue",
+    "category": "Healthcare",
+    "roles": [
+      "Health Information Manager",
+      "HIM Data Analyst",
+      "Medical Billing Specialist",
+      "Medical Coder",
+      "Medical Office Administrator",
+      "Healthcare Compliance Specialist",
+      "Revenue Cycle Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Teaching & Academic Programs",
+    "category": "Education",
+    "roles": [
+      "Professor",
+      "Teacher",
+      "Academic Advisor",
+      "Curriculum Developer",
+      "Student Success Advisor",
+      "Career Services Coordinator",
+      "Corporate Trainer"
+    ]
+  },
+  {
+    "cluster_label": "Student Services & Enrollment",
+    "category": "Education",
+    "roles": [
+      "Admissions Counselor",
+      "Financial Aid Officer",
+      "Enrollment Manager",
+      "Enrollment Marketing Manager",
+      "International Student Services Coordinator",
+      "Registrar",
+      "Student Records Coordinator",
+      "Bursar",
+      "Bursar Operations Analyst",
+      "Scheduling Officer"
+    ]
+  },
+  {
+    "cluster_label": "Educational Technology & Administration",
+    "category": "Education",
+    "roles": [
+      "Instructional Designer",
+      "Instructional Technologist",
+      "eLearning Developer",
+      "Learning Experience Designer",
+      "Institutional Research Analyst",
+      "Registrar Systems Analyst",
+      "Assessment & Accreditation Coordinator",
+      "Educational Program Coordinator",
+      "Department Coordinator",
+      "Dean's Office Administrator",
+      "School Administrator",
+      "Alumni Relations Manager"
+    ]
+  },
+  {
+    "cluster_label": "Policy, Regulation & Legislation",
+    "category": "Government & Public Sector",
+    "roles": [
+      "Policy Analyst",
+      "Regulatory Policy Analyst",
+      "Legislative Aide",
+      "City Planner",
+      "Transportation Planning Analyst",
+      "Emergency Management Planner",
+      "Public Health Program Analyst",
+      "Public Information Officer"
+    ]
+  },
+  {
+    "cluster_label": "Public Administration & Compliance",
+    "category": "Government & Public Sector",
+    "roles": [
+      "Budget Analyst (Public)",
+      "Clerk of Court (Admin)",
+      "Elections Coordinator",
+      "Grant Writer",
+      "Grants Compliance Manager",
+      "Procurement Officer (Public)",
+      "Public Records Coordinator",
+      "Records Officer"
+    ]
+  },
+  {
+    "cluster_label": "Fundraising & Donor Engagement",
+    "category": "Nonprofit & NGO",
+    "roles": [
+      "Fundraising Manager",
+      "Major Gifts Officer",
+      "Planned Giving Officer",
+      "Donor Relations Manager",
+      "Development Coordinator",
+      "Grant Accountant",
+      "Grants Manager",
+      "Membership Manager"
+    ]
+  },
+  {
+    "cluster_label": "Programs & Community Impact",
+    "category": "Nonprofit & NGO",
+    "roles": [
+      "Program Coordinator",
+      "Program Evaluator",
+      "Program Manager (Nonprofit)",
+      "NGO Operations Manager",
+      "Community Development Coordinator",
+      "Community Outreach Manager",
+      "Advocacy Campaigns Manager",
+      "Coalition Coordinator",
+      "Economic Development Analyst",
+      "Monitoring & Evaluation Specialist",
+      "Volunteer Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Real Estate Transactions & Management",
+    "category": "Real Estate & Construction",
+    "roles": [
+      "Acquisitions Analyst",
+      "Asset Manager (Real Estate)",
+      "Development Coordinator (Real Estate)",
+      "Escrow Officer (Office)",
+      "Facilities Manager",
+      "Leasing Consultant",
+      "Property Manager",
+      "Real Estate Agent",
+      "Real Estate Financial Analyst",
+      "Title Officer (Office)",
+      "Transaction Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Construction Project Delivery",
+    "category": "Real Estate & Construction",
+    "roles": [
+      "Construction Project Manager",
+      "Document Control Coordinator (Construction)",
+      "Estimator",
+      "Owner's Rep (Office)",
+      "Preconstruction Manager",
+      "Safety Compliance Coordinator (Office)",
+      "Scheduler (Construction)",
+      "Site Administrator"
+    ]
+  },
+  {
+    "cluster_label": "Merchandising & Category Management",
+    "category": "Retail & E-commerce",
+    "roles": [
+      "Assortment Planner",
+      "Category Manager",
+      "Merchandising Analyst",
+      "Space Planner",
+      "Visual Merchandising Coordinator (Office)",
+      "Retail Finance Analyst",
+      "Loss Prevention Analyst (Office)"
+    ]
+  },
+  {
+    "cluster_label": "E-commerce & Retail Operations",
+    "category": "Retail & E-commerce",
+    "roles": [
+      "E-commerce Manager",
+      "Marketplace Operations Manager",
+      "Omnichannel Operations Manager",
+      "Store Operations Manager",
+      "CRM & Loyalty Program Manager",
+      "Returns & Refunds Analyst",
+      "Vendor Operations Manager (Retail)"
+    ]
+  },
+  {
+    "cluster_label": "Underwriting & Risk Assessment",
+    "category": "Insurance",
+    "roles": [
+      "Actuarial Analyst",
+      "Catastrophe Modeling Analyst",
+      "Exposure Management Analyst",
+      "Premium Audit Analyst",
+      "Reinsurance Analyst",
+      "Underwriter"
+    ]
+  },
+  {
+    "cluster_label": "Claims & Policy Operations",
+    "category": "Insurance",
+    "roles": [
+      "Broker Account Manager (Office)",
+      "Claims Adjuster (Office)",
+      "Claims Operations Manager (Office)",
+      "Compliance Analyst (Insurance)",
+      "Policy Administration Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Investment & Research",
+    "category": "Banking & Financial Services",
+    "roles": [
+      "Buy-Side Analyst",
+      "Equity Research Associate",
+      "Investment Analyst",
+      "Portfolio Analyst",
+      "Sell-Side Analyst",
+      "Trading Operations Analyst",
+      "Wealth Management Associate",
+      "Wealth Operations Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Risk, Compliance & Banking Operations",
+    "category": "Banking & Financial Services",
+    "roles": [
+      "AML Investigator",
+      "Compliance Analyst",
+      "Financial Crime Analyst",
+      "Loan Officer",
+      "Payments Operations Analyst",
+      "Relationship Manager",
+      "Risk Analyst",
+      "Sanctions Analyst",
+      "Trust Officer (Office)"
+    ]
+  },
+  {
+    "cluster_label": "Hotel & Event Sales",
+    "category": "Hospitality & Travel",
+    "roles": [
+      "Catering Sales Manager",
+      "Event Sales Coordinator",
+      "Group Sales Coordinator",
+      "Hotel Sales Manager",
+      "Banquet Administration Coordinator",
+      "Guest Relations Manager (Office)"
+    ]
+  },
+  {
+    "cluster_label": "Travel Operations & Revenue",
+    "category": "Hospitality & Travel",
+    "roles": [
+      "Airline Scheduling Analyst (Office)",
+      "Crew Scheduler (Office)",
+      "Revenue Analyst",
+      "Tour Operations Coordinator",
+      "Travel Product Manager",
+      "Yield/Revenue Management Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Energy Trading & Market Operations",
+    "category": "Energy & Utilities",
+    "roles": [
+      "Energy Analyst",
+      "Gas Nominations/Scheduling Analyst",
+      "Power Trading Operations Analyst (Office)",
+      "Rates Analyst",
+      "Settlements Analyst (Energy)"
+    ]
+  },
+  {
+    "cluster_label": "Utility Infrastructure & Compliance",
+    "category": "Energy & Utilities",
+    "roles": [
+      "Asset Management Analyst",
+      "Environmental Compliance Specialist",
+      "Outage Planning Coordinator (Office)",
+      "Regulatory Affairs Manager (Office)",
+      "Scheduling Coordinator",
+      "Transmission Planning Analyst (Office)"
+    ]
+  },
+  {
+    "cluster_label": "Clinical & Regulatory Affairs",
+    "category": "Pharma & Life Sciences",
+    "roles": [
+      "Clinical Study Start-Up Specialist",
+      "Clinical Trial Coordinator",
+      "Medical Affairs Coordinator (Admin)",
+      "Medical Writer",
+      "Pharmacovigilance Specialist",
+      "Regulatory Affairs Associate",
+      "Regulatory Submissions Coordinator",
+      "Safety Case Processing Specialist"
+    ]
+  },
+  {
+    "cluster_label": "Quality & Documentation",
+    "category": "Pharma & Life Sciences",
+    "roles": [
+      "Biostatistics Operations Coordinator (Admin)",
+      "CMC Documentation Specialist (Office)",
+      "Quality Assurance Specialist",
+      "Quality Systems Coordinator (GxP)"
+    ]
+  },
+  {
+    "cluster_label": "Grant & Research Finance",
+    "category": "Research Administration",
+    "roles": [
+      "Grant Administrator",
+      "Grant Compliance Officer",
+      "Research Finance/Grant Accountant",
+      "Sponsored Programs Specialist",
+      "Research Administrator"
+    ]
+  },
+  {
+    "cluster_label": "Research Operations & Compliance",
+    "category": "Research Administration",
+    "roles": [
+      "Core Facilities Coordinator (Admin)",
+      "IRB/IACUC Coordinator (Admin)",
+      "Lab Operations Coordinator (Admin)",
+      "Publication Manager (Admin)",
+      "Research Coordinator",
+      "Technical Editor"
+    ]
+  },
+  {
+    "cluster_label": "Application Development",
+    "category": "Software Engineering",
+    "roles": [
+      "Frontend Software Engineer",
+      "Backend Software Engineer",
+      "Full-Stack Software Engineer",
+      "Mobile Software Engineer (Android)",
+      "Mobile Software Engineer (iOS)",
+      "Web Developer",
+      "Game Developer",
+      "Software Engineer",
+      "AR/VR Software Engineer"
+    ]
+  },
+  {
+    "cluster_label": "Platform & Infrastructure",
+    "category": "Software Engineering",
+    "roles": [
+      "Cloud Engineer",
+      "Platform Engineer",
+      "Systems Software Engineer",
+      "DevSecOps Engineer",
+      "Build/Release Engineer",
+      "Embedded Software Engineer",
+      "Firmware Engineer",
+      "Data Platform Engineer",
+      "Graphics/Rendering Engineer",
+      "Robotics Software Engineer"
+    ]
+  },
+  {
+    "cluster_label": "Engineering Management & Quality",
+    "category": "Software Engineering",
+    "roles": [
+      "Engineering Manager",
+      "Software Development Manager",
+      "Principal Software Engineer",
+      "Staff Software Engineer",
+      "Quality Engineer (Software)",
+      "SDET (Software Development Engineer in Test)",
+      "Test Automation Engineer",
+      "Tools Engineer",
+      "MLOps Engineer",
+      "Solutions Engineer (Pre-Sales)",
+      "Application Security Engineer"
+    ]
+  },
+  {
+    "cluster_label": "Account Strategy & Media",
+    "category": "Agency & Advertising",
+    "roles": [
+      "Account Manager (Agency)",
+      "Account Planner",
+      "Ad Operations Manager",
+      "Media Operations Manager",
+      "Media Strategist",
+      "Strategist (Agency)"
+    ]
+  },
+  {
+    "cluster_label": "Creative & Production Operations",
+    "category": "Agency & Advertising",
+    "roles": [
+      "Creative Operations Manager",
+      "Post-Production Coordinator (Office)",
+      "Production Coordinator (Agency)",
+      "Rights & Licensing Coordinator",
+      "Traffic Coordinator (Agency)"
+    ]
+  },
+  {
+    "cluster_label": "Agribusiness & Commodity Operations",
+    "category": "Agriculture",
+    "roles": [
+      "Agribusiness Analyst",
+      "Commodity Trading Operations Analyst",
+      "Co-op Operations Coordinator",
+      "Farm Records Manager (Office)",
+      "Seed/Inputs Product Manager (Office)"
+    ]
+  },
+  {
+    "cluster_label": "Agricultural Compliance & Sustainability",
+    "category": "Agriculture",
+    "roles": [
+      "Food Safety Compliance Coordinator (Office)",
+      "Land Management Coordinator",
+      "Regulatory Affairs Coordinator (Ag)",
+      "Supply Planner (Ag)",
+      "Sustainability Reporting Analyst (Ag)"
+    ]
+  },
+  {
+    "cluster_label": "Design & Engineering (AEC)",
+    "category": "Architecture, Engineering & Construction (AEC)",
+    "roles": [
+      "CAD/BIM Manager",
+      "Civil Engineer (Office)",
+      "MEP Engineer (Office)",
+      "Project Architect (Office)",
+      "Structural Engineer (Office)",
+      "Specification Writer"
+    ]
+  },
+  {
+    "cluster_label": "Project Controls & Estimation (AEC)",
+    "category": "Architecture, Engineering & Construction (AEC)",
+    "roles": [
+      "Cost Estimator (AEC)",
+      "Design Project Manager (AEC)",
+      "Permitting Coordinator (AEC)",
+      "Project Controls Manager (AEC)"
+    ]
+  },
+  {
+    "cluster_label": "Automotive Product & Program Management",
+    "category": "Automotive",
+    "roles": [
+      "Engineering Change Coordinator (Auto)",
+      "Homologation/Regulatory Specialist (Auto)",
+      "Manufacturing Program Manager (Auto)",
+      "Product Planning Analyst (Auto)",
+      "Quality Systems Engineer (Office)"
+    ]
+  },
+  {
+    "cluster_label": "Automotive Sales & Service Operations",
+    "category": "Automotive",
+    "roles": [
+      "After-Sales Operations Analyst",
+      "Dealer Network Development Analyst",
+      "Service Technical Writer (Auto)",
+      "Telematics Data Analyst (Auto)",
+      "Warranty Claims Analyst"
+    ]
+  },
+  {
+    "cluster_label": "CPG Product & Innovation",
+    "category": "Consumer Packaged Goods (CPG)",
+    "roles": [
+      "Innovation Project Manager (CPG)",
+      "Packaging Engineer (Office)",
+      "R&D Program Coordinator (Office)",
+      "Regulatory Labeling Specialist",
+      "Quality Systems Coordinator (CPG)"
+    ]
+  },
+  {
+    "cluster_label": "CPG Commercial & Trade",
+    "category": "Consumer Packaged Goods (CPG)",
+    "roles": [
+      "Brand Finance Analyst (CPG)",
+      "Category Insights Manager (CPG)",
+      "Field Marketing Operations Coordinator (CPG)",
+      "Sales Finance Analyst (CPG)",
+      "Trade Promotion Analyst"
+    ]
+  },
+  {
+    "cluster_label": "Media & Entertainment",
+    "category": "Media & Entertainment",
+    "roles": [
+      "Content Operations Manager",
+      "Distribution Operations Analyst",
+      "Music Licensing Coordinator",
+      "Post Scheduling Coordinator (Office)",
+      "Production Finance Analyst",
+      "Programming Scheduler (Office)",
+      "Rights Management Analyst",
+      "Script Coordinator (Office)",
+      "Talent Relations Coordinator (Office)"
+    ]
+  },
+  {
+    "cluster_label": "Mine Planning & Operations",
+    "category": "Mining",
+    "roles": [
+      "Exploration Program Coordinator (Office)",
+      "Geospatial Data Analyst (Mining)",
+      "Mine Planning Analyst (Office)",
+      "Commodity Logistics Coordinator (Mining)",
+      "Royalty/Lease Analyst (Mining)"
+    ]
+  },
+  {
+    "cluster_label": "Mining Compliance & Stakeholder Relations",
+    "category": "Mining",
+    "roles": [
+      "Environmental Analyst (Mining)",
+      "Permitting Specialist (Mining)",
+      "Reclamation Program Coordinator (Office)",
+      "Safety & Compliance Analyst (Mining)",
+      "Stakeholder Relations Coordinator (Mining)"
+    ]
+  },
+  {
+    "cluster_label": "Sports Revenue & Sponsorship",
+    "category": "Sports & Entertainment",
+    "roles": [
+      "Merchandise Planning Analyst (Sports)",
+      "Season Ticket Operations Manager",
+      "Sponsorship Coordinator",
+      "Ticketing Analyst",
+      "Event Finance Analyst (Sports)"
+    ]
+  },
+  {
+    "cluster_label": "Sports Operations & Community",
+    "category": "Sports & Entertainment",
+    "roles": [
+      "Athletics Compliance Coordinator (Office)",
+      "Community Relations Coordinator (Sports)",
+      "Game Day Operations Planner (Office)",
+      "Team Operations Coordinator (Office)",
+      "Venue Scheduling Coordinator"
+    ]
+  },
+  {
+    "cluster_label": "Telecom Network & Capacity",
+    "category": "Telecom",
+    "roles": [
+      "Capacity Planning Analyst (Telecom)",
+      "Network Planning Analyst (Telecom)",
+      "OSS/BSS Analyst",
+      "Spectrum Manager (Office)",
+      "Service Assurance Coordinator (Office)"
+    ]
+  },
+  {
+    "cluster_label": "Telecom Products & Operations",
+    "category": "Telecom",
+    "roles": [
+      "Customer Provisioning Specialist (Office)",
+      "Field Operations Coordinator (Telecom)",
+      "Partner Operations Manager (Telecom)",
+      "Regulatory Compliance Analyst (Telecom)",
+      "Telecom Product Manager"
+    ]
+  },
+  {
+    "cluster_label": "Proposal & Bid Management",
+    "category": "Proposal & Bid Management",
+    "roles": [
+      "Proposal/Bid Manager",
+      "RFP Manager"
+    ]
+  },
+  {
+    "cluster_label": "Frontline Management",
+    "category": "Frontline Management",
+    "roles": [
+      "Small Business Owner"
+    ]
+  }
+]
