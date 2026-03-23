@@ -1,0 +1,30 @@
+{
+  "name": "job-title-embedding-futures",
+  "title": "Job Title Embedding — Full Futures Implementation",
+  "tier": 3,
+  "steps": [
+    {"name": "assess", "status": "completed"},
+    {"name": "research", "status": "completed", "gate_id": "JEM-r2k"},
+    {"name": "plan", "status": "completed", "gate_id": "JEM-yfk"},
+    {"name": "spec", "status": "completed", "gate_id": "JEM-hho"},
+    {"name": "decompose", "status": "completed", "gate_id": "JEM-cr2"},
+    {"name": "implement", "status": "completed", "gate_id": "JEM-wqq"},
+    {"name": "review", "status": "active"}
+  ],
+  "current_step": "review",
+  "reviewed_at": "2026-03-23T13:00:00Z",
+  "assessment": {
+    "scope": 2,
+    "ambiguity": 2,
+    "risk": 2,
+    "total": 6,
+    "tier": 3,
+    "rationale": "8 independent improvement techniques across 3 horizons (next/quarter). Spans embedding pipeline, data generation, ML training, evaluation, and reporting. Each technique is distinct, requiring phased breakdown."
+  },
+  "base_commit": "c68fd09d59544e64301412bb8cd4d60fd06d86ed",
+  "beads_epic_id": "JEM-arn",
+  "issue_id": "JEM-ai2",
+  "created_at": "2026-03-20T00:00:00Z",
+  "updated_at": "2026-03-23T13:00:00Z",
+  "archived_at": null
+}

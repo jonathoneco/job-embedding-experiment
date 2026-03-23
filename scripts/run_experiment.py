@@ -19,7 +19,7 @@ def validate_target_sets(target_sets):
             for key in ("id", "text", "granularity"):
                 if key not in t:
                     raise ValueError(f"target_sets['{gran}'][{i}] missing required key '{key}'")
-            if gran in ("role", "role_desc"):
+            if gran in ("role", "role_desc", "role_augmented"):
                 if "role" not in t:
                     raise ValueError(f"target_sets['{gran}'][{i}] missing 'role' key")
             else:

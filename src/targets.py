@@ -1,6 +1,11 @@
 """Build target sets at multiple granularity levels for embedding experiments."""
 
+import json
+import os
+
 from src.taxonomy import get_categories
+
+AUGMENTED_PATH = os.path.join("data", "taxonomy", "augmented_targets.json")
 
 
 def build_target_sets(
@@ -89,10 +94,16 @@ def build_target_sets(
             "granularity": "category",
         })
 
-    return {
+    target_sets = {
         "role": role_targets,
         "role_desc": role_desc_targets,
         "cluster": cluster_targets,
         "category_desc": category_desc_targets,
         "category": category_targets,
     }
+
+    if os.path.exists(AUGMENTED_PATH):
+        with open(AUGMENTED_PATH) as f:
+            target_sets["role_augmented"] = json.load(f)
+
+    return target_sets

@@ -154,8 +154,9 @@ class TestParseTaxonomy:
             assert isinstance(cluster["category"], str)
             assert isinstance(cluster["roles"], list)
 
-    def test_build_target_sets(self):
+    def test_build_target_sets(self, monkeypatch):
         """Build target sets from mock data and validate structure."""
+        monkeypatch.setattr("src.targets.AUGMENTED_PATH", "/nonexistent/path.json")
         # Mock roles: 3 roles across 2 categories
         mock_roles = [
             {"role": "Alpha Engineer", "category": "Engineering"},

@@ -5,18 +5,19 @@ import os
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
+from src.preprocess import expand_abbreviations
+
 
 def load_model(model_config: dict) -> SentenceTransformer:
     """Load a SentenceTransformer model from config.
 
     Revision hashes are pinned in config.yaml for reproducibility and
-    supply-chain safety.
+    supply-chain safety. Local fine-tuned models use revision: null.
     """
-    return SentenceTransformer(
-        model_config["id"],
-        revision=model_config["revision"],
-        trust_remote_code=False,
-    )
+    kwargs = {"trust_remote_code": False}
+    if model_config.get("revision"):
+        kwargs["revision"] = model_config["revision"]
+    return SentenceTransformer(model_config["id"], **kwargs)
 
 
 def encode_targets(
@@ -62,9 +63,12 @@ def encode_queries(
     model: SentenceTransformer,
     queries: list[str],
     batch_size: int,
+    prompt: str | None = None,
 ) -> np.ndarray:
     """Encode query strings with L2 normalization. No caching."""
-    embeddings = model.encode(queries, batch_size=batch_size, show_progress_bar=False)
+    embeddings = model.encode(
+        queries, batch_size=batch_size, show_progress_bar=False, prompt=prompt,
+    )
     norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
     if np.any(norms == 0):
         raise ValueError("Zero-norm embedding vector detected — input text may be empty")
@@ -123,16 +127,34 @@ def run_embedding_model(
     """Run a single embedding model across all granularities."""
     model = load_model(model_config)
     query_texts = [case["input_title"] for case in test_cases]
+    query_texts = [expand_abbreviations(q) for q in query_texts]
     batch_size = config["embedding"]["batch_size"]
     cache_dir = config["embedding"]["cache_dir"]
     model_label = model_config["label"]
+    instruction = model_config.get("instruction")
+
+    reranking_config = config.get("reranking", {})
+    reranking_enabled = reranking_config.get("enabled", False)
+    reranker = None
+    rerank_batch = None
+    if reranking_enabled:
+        from src.rerank import load_reranker
+        from src.rerank import rerank_batch as _rerank_batch
+        reranker = load_reranker(config)
+        rerank_batch = _rerank_batch
 
     all_results = []
-    for granularity in ["role", "role_desc", "cluster", "category_desc", "category"]:
-        targets = target_sets[granularity]
+    for granularity in ["role", "role_desc", "cluster", "category_desc", "category", "role_augmented"]:
+        targets = target_sets.get(granularity)
+        if targets is None:
+            continue
+
+        # Targets intentionally get no instruction prefix — BGE-v1.5 applies
+        # instruction only to queries, not passages (per model documentation).
         target_emb = encode_targets(model, targets, batch_size, cache_dir, model_label)
-        query_emb = encode_queries(model, query_texts, batch_size)
-        rankings = rank_targets(query_emb, target_emb, targets)
+        query_emb = encode_queries(model, query_texts, batch_size, prompt=instruction)
+        top_k = reranking_config.get("initial_k", 10) if reranking_enabled else 10
+        rankings = rank_targets(query_emb, target_emb, targets, top_k=top_k)
 
         for case_idx, case in enumerate(test_cases):
             all_results.append({
@@ -141,5 +163,39 @@ def run_embedding_model(
                 "granularity": granularity,
                 "ranked_results": rankings[case_idx],
             })
+
+        if reranking_enabled and reranker is not None:
+            target_lookup = {t["id"]: t["text"] for t in targets}
+            candidates_per_query = []
+            for ranking in rankings:
+                enriched = [
+                    {**r, "text": target_lookup[r["target_id"]]}
+                    for r in ranking
+                ]
+                candidates_per_query.append(enriched)
+
+            reranked = rerank_batch(
+                reranker, query_texts, candidates_per_query,
+                top_n=reranking_config.get("top_n", 10),
+            )
+
+            for case_idx, case in enumerate(test_cases):
+                all_results.append({
+                    "test_case_id": case["id"],
+                    "method": f"{model_label}+rerank",
+                    "granularity": granularity,
+                    "ranked_results": reranked[case_idx],
+                })
+
+    fusion_config = config.get("fusion", {})
+    if fusion_config.get("enabled", False):
+        from src.fusion import fuse_all
+        fused = fuse_all(
+            all_results,
+            fusion_config["configs"],
+            test_cases,
+            k=fusion_config.get("k", 60),
+        )
+        all_results.extend(fused)
 
     return all_results

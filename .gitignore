@@ -7,3 +7,5 @@ results/
 .venv/
 *.egg-info/
 uv.lock
+.env
+.env.*
