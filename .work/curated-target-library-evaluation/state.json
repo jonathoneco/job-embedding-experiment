@@ -1,0 +1,26 @@
+{
+  "name": "curated-target-library-evaluation",
+  "title": "Curated Target Library Evaluation",
+  "tier": 2,
+  "steps": [
+    {"name": "assess", "status": "completed"},
+    {"name": "plan", "status": "completed"},
+    {"name": "implement", "status": "completed"},
+    {"name": "review", "status": "active"}
+  ],
+  "current_step": "review",
+  "assessment": {
+    "scope": 1,
+    "ambiguity": 1,
+    "risk": 1,
+    "total": 3,
+    "tier": 2,
+    "rationale": "Adaptation of existing evaluation pipeline to a curated target subset. Key design question: defining what 'curated' means for the production role library. Touches data layer, experiment runner, and evaluation at multiple granularities."
+  },
+  "base_commit": "52f6f0b8d375802fc653c62c96c6015865434c97",
+  "issue_id": "JEM-e0c",
+  "created_at": "2026-03-23T18:20:00Z",
+  "updated_at": "2026-03-23T19:15:00Z",
+  "reviewed_at": "2026-03-23T19:15:00Z",
+  "archived_at": null
+}
