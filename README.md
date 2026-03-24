@@ -136,6 +136,24 @@ The descriptions expand abbreviations ("DEI", "SOC", "ABM", "PLM", "AR") and exp
 | "Projekct Manger" (misspelled) | rank 2 (close to Project Manager) | rank >10 (description noise overwhelms the fuzzy match) |
 | "Revenue Operations Manager" | rank 1 (Operations Manager) | rank >10 (descriptions pull toward Marketing Operations) |
 
+## Curated Target Library
+
+What happens when we evaluate against a realistic production subset instead of the full 692-role taxonomy?
+
+We tested with a **123-role curated library** drawn from BizChat role personalization, Microsoft adoption site roles, and LinkedIn role data — the kind of canonical role set an organization would actually store and map incoming titles to.
+
+| Granularity | Full Targets | Full MRR | Curated Targets | Curated MRR | Delta |
+|-------------|-------------|----------|-----------------|-------------|-------|
+| role | 692 | 0.729 | 123 | **0.742** | +0.013 |
+| cluster | 90 | 0.490 | 32 | **0.594** | +0.104 |
+| category | 42 | 0.496 | 17 | **0.534** | +0.038 |
+
+**Performance improves across the board.** Fewer targets means fewer distractors competing for top-K slots. The cluster-level improvement is especially large (+0.104 MRR) because 25 irrelevant categories (Agriculture, Mining, Sports, etc.) are eliminated entirely.
+
+The curated best config (bge-large @ curated_role, MRR 0.742) outperforms the full-taxonomy best (bge-large @ role_desc, MRR 0.733) without needing descriptions. **A well-scoped target library matters more than richer target text.**
+
+**Coverage tradeoff:** Only 23% of test cases have a correct answer in the curated set (132/567). The remaining 77% map to roles outside the library. This is expected — the curated set is intentionally narrow. Metrics are computed only on covered cases.
+
 ## Production Recommendation
 
 **For a "top 3-5 suggestions" UX:** Embeddings are ready. 80% Top-3 accuracy with confidence scoring to flag uncertain matches. Users review suggestions rather than trusting auto-match.
@@ -159,6 +177,7 @@ src/
   fusion.py             # Reciprocal Rank Fusion
   fine_tune.py          # TSDAE + contrastive fine-tuning pipeline
   generate_training_data.py  # Training data from taxonomy
+  curated_targets.py    # Curated target library builder + coverage filter
 
 scripts/
   run_experiment.py     # Main experiment orchestrator
