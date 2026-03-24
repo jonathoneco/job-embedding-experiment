@@ -140,7 +140,7 @@ The descriptions expand abbreviations ("DEI", "SOC", "ABM", "PLM", "AR") and exp
 
 What happens when we evaluate against a realistic production subset instead of the full 692-role taxonomy?
 
-We tested with a **123-role curated library** drawn from BizChat role personalization, Microsoft adoption site roles, and LinkedIn role data — the kind of canonical role set an organization would actually store and map incoming titles to.
+We tested with a **123-role curated library** drawn from the canonical role set an organization would actually store and map incoming titles to.
 
 | Granularity | Full Targets | Full MRR | Curated Targets | Curated MRR | Delta |
 |-------------|-------------|----------|-----------------|-------------|-------|
