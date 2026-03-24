@@ -144,7 +144,7 @@ def run_embedding_model(
         rerank_batch = _rerank_batch
 
     all_results = []
-    for granularity in ["role", "role_desc", "cluster", "category_desc", "category", "role_augmented"]:
+    for granularity in target_sets:
         targets = target_sets.get(granularity)
         if targets is None:
             continue

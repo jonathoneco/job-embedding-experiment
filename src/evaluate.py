@@ -7,7 +7,7 @@ def _is_correct(target: dict, correct_role_names: set[str], granularity: str) ->
     For role/role_desc granularity: match on singular 'role' field.
     For cluster/category_desc/category: match if ANY role in 'roles' array overlaps.
     """
-    if granularity in ("role", "role_desc", "role_augmented"):
+    if granularity in ("role", "role_desc", "role_augmented", "curated_role"):
         return target["role"] in correct_role_names
     else:  # cluster, category_desc, category
         return bool(set(target["roles"]) & correct_role_names)

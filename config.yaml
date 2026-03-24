@@ -77,3 +77,8 @@ bgem3:
   enabled: false
   model: "BAAI/bge-m3"
   granularities: ["role", "category"]
+
+curated:
+  enabled: true
+  roles_file: "data/taxonomy/curated_roles.json"
+  granularities: ["curated_role", "curated_cluster", "curated_category"]
